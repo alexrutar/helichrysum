@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.fancyhead {
+  font-family : 'Goudy Header';
+  letter-spacing: 2px;
+}

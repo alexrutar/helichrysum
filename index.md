@@ -9,7 +9,7 @@
 - Rocky Coast (Elders)
 
 **World Deck:** 
-- 9 Discord
+- 9 Discord <img "/assets/images/suit-discord.png" style="height:1ex;" />
 - 9 Arcane
 - 9 Order
 - 9 Hearth

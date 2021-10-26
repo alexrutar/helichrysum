@@ -1,7 +1,7 @@
 ## Game state
-**Oath Sworn:** Supremacy
-
 **Current chancellor:** Alexander
+
+**Oath Sworn:** Supremacy
 
 **Sites in play:** 
 - Plains (Longbows)

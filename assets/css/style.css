@@ -3,6 +3,14 @@
 
 @import "{{ site.theme }}";
 
+.test {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
 .fancyhead {
   font-family : 'Goudy Header';
   letter-spacing: 2px;

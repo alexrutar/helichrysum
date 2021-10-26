@@ -2,6 +2,6 @@
 
 Test
 
-<div class="fancyhead" >Title 2 <\div>
+<div class="test" > Title 2 <\div>
 
 Test2

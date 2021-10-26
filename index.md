@@ -1,4 +1,4 @@
-## Game state
+## Chronicle state
 **Current chancellor:** Alexander
 
 **Oath Sworn:** Supremacy

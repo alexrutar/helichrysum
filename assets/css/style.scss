@@ -11,3 +11,11 @@ img {
   max-width: 502px;
 }
 
+header span.ribbon-inner {
+  position: relative;
+  display: block;
+  background-color: #cd596b;
+  border: 8px solid #7c334f;
+  padding: 12px;
+  z-index: 1;
+}

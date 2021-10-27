@@ -27,6 +27,9 @@
 
 ## Recent Events
 
+### Second Era of Devotion, Reign of Kasper IV
+Forces gather, more to come...
+
 ### First Era of Supremacy, Reign of Alexander I
 Forces gather, more to come...
 

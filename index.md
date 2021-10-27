@@ -14,7 +14,7 @@
 
 **Sites in play:** 
 - Plains (Longbows)
-- Mountains (Magic circle thing)
+- Mountains (Taming Charm)
 - Rocky Coast (Elders)
 
 **World Deck:** 

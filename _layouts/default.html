@@ -17,23 +17,7 @@
       $(document).ready(function () {
         $('#main_content').headsmart()
       })
-    </script>
-    <script>
-      (function() {
-        var quotes = [
-          {
-            text: "text1",
-          },
-          {
-            text: "text2",
-          }
-        ];
-        var quote = quotes[Math.floor(Math.random() * quotes.length)];
-        document.getElementById("quote").innerHTML =
-          '<p>' + quote.text + '</p>';
-      })();
-    </script>
-  
+    </script> 
 
 {% seo %}
 
@@ -85,6 +69,23 @@
         </span>
         <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
         <span class="octocat"></span>
+        
+         <script>
+          (function() {
+            var quotes = [
+              {
+                text: "text1",
+              },
+              {
+                text: "text2",
+              }
+            ];
+            var quote = quotes[Math.floor(Math.random() * quotes.length)];
+            document.getElementById("quote").innerHTML =
+              '<p>' + quote.text + '</p>';
+          })();
+        </script>
+        
       </footer>
 
     </div>

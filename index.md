@@ -1,6 +1,6 @@
 ## Chronicle State
 
-<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-header">O</span>ath <i>of</i> <span class="goudy-header">S</span>upremacy</span>
+<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">S</span>upremacy</span>
 
 ### Dramatis Personæ
 **Chancellor:** Alexander

@@ -72,15 +72,18 @@
         <span class="octocat"></span>
         
          <script>
-          var script_tag = document.getElementById('counter');
-          var count = script_tag.getAttribute("data-count");
-          var imgsrc = script_tag.getAttribute("data-imgsrc");
+          var classTags = document.getElementsByClassName('counter');
+          for (j=0;j<class_tags.length;j++){
+            var script_tag = class_tags[j];
+            var count = script_tag.getAttribute("data-count");
+            var imgsrc = script_tag.getAttribute("data-imgsrc");
 
-          script_tag.innerHTML += '<p>';
-          for (var i = 1; i <= count; i++) {
-            script_tag.innerHTML += '<img src="' + imgsrc + '"; style="height:1em;"/>';
+            script_tag.innerHTML += '<p>';
+            for (var i = 1; i <= count; i++) {
+              script_tag.innerHTML += '<img src="' + imgsrc + '"; style="height:1em;"/>';
+            }
+            script_tag.innerHTML += '</p>';
           }
-          script_tag.innerHTML += '</p>';
            
           (function() {
             var quotes = [

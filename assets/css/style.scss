@@ -10,3 +10,25 @@ img {
   border: 0px solid #fff6e9;
   max-width: 502px;
 }
+
+@font-face {
+    font-family: 'goudy_header';
+    src: url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.ttf') format('truetype'),
+         url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.woff2') format('woff2'),
+         url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.header-level-1 {
+  font-size: 1.85em;
+  border-bottom: .2em double #d3ccc1;
+  color: #7c334f;
+  text-align: center;
+  font-style: italic;
+  margin: 1.1em 0 .38em;
+  line-height: 1.2;
+  padding-bottom: 10px
+  font-family: 'goudy_header';
+}

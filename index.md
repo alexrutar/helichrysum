@@ -38,10 +38,10 @@ Current oath:
 ## Recent Events
 
 ### Fifth Era of The People, Reign of Kasper IV
-Forces gather, fate awaits...
+Fifth "The People" game, fourth time Kasper is chancellor.
 
 ### First Era of Supremacy, Reign of Alexander I
-Forces gather, fate awaits...
+First "Supremacy" game, first time Alexander is chancellor.
 
 ### Introduction
 In the dimly lit room of his stronghold, a glint of dawn peeking through the window, the chancellor hesitates a moment, then presses his seal against the molten wax. He leans back with a sigh. "It is done, then. Let these three great houses rot in exile, and let there be peace once more. However brief it may be."

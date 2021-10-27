@@ -26,12 +26,17 @@ Current oath:
 - Rocky Coast (Elders)
 
 **World Deck:** 
-- 9 Discord <img src="assets/images/suit-discord.png" style="height:1em;" />
-- 9 Arcane <img src="assets/images/suit-arcane.png" style="height:1em;" />
-- 9 Order <img src="assets/images/suit-order.png" style="height:1em;" />
-- 9 Hearth <img src="assets/images/suit-hearth.png" style="height:1em;" />
-- 9 Beast <img src="assets/images/suit-beast.png" style="height:1em;" />
-- 9 Nomad <img src="assets/images/suit-nomad.png" style="height:1em;" />
+
+<script id="counter" src="script.js" data-count="5" data-imgsrc="assets/images/suit-discord.png" ></script>
+
+|Type|Number|
+|---|---|
+|9 Discord| <img src="assets/images/suit-discord.png" style="height:1em;" /> <img src="assets/images/suit-discord.png" style="height:1em;" /> <img src="assets/images/suit-discord.png" style="height:1em;" />|
+|9 Arcane| <img src="assets/images/suit-arcane.png" style="height:1em;" />|
+|9 Order| <img src="assets/images/suit-order.png" style="height:1em;" />|
+|9 Hearth| <img src="assets/images/suit-hearth.png" style="height:1em;" />|
+|9 Beast| <img src="assets/images/suit-beast.png" style="height:1em;" />|
+|9 Nomad| <img src="assets/images/suit-nomad.png" style="height:1em;" />|
 
 [Download TTS file](tts-file)
 

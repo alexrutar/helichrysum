@@ -25,5 +25,5 @@
 - 9 Beast <img src="assets/images/suit-beast.png" style="height:1em;" />
 - 9 Nomad <img src="assets/images/suit-nomad.png" style="height:1em;" />
 
-## Recent events
+## Recent Events
 In the dimly lit room of his stronghold, a glint of dawn peeking through the window, the chancellor hesitates a moment, then presses his seal against the molten wax, leaning back with a sigh. "It is done, then. Let these three great houses rot in exile, and let there be peace once more. However brief it may be."

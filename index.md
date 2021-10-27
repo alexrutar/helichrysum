@@ -1,5 +1,5 @@
 ## Chronicle State
-**Oath Sworn:** <span class="goudy-capital">S</span>upremacy
+#### <span class="goudy-header">S</span>upremacy
 
 ### Dramatis Personæ
 **Chancellor:** Alexander

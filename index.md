@@ -27,11 +27,11 @@
 
 ## Recent Events
 
-### Second Era of Devotion, Reign of Kasper IV
-Forces gather, more to come...
+### Fifth Era of The People, Reign of Kasper IV
+Forces gather, fate awaits...
 
 ### First Era of Supremacy, Reign of Alexander I
-Forces gather, more to come...
+Forces gather, fate awaits...
 
 ### Introduction
 In the dimly lit room of his stronghold, a glint of dawn peeking through the window, the chancellor hesitates a moment, then presses his seal against the molten wax, leaning back with a sigh. "It is done, then. Let these three great houses rot in exile, and let there be peace once more. However brief it may be."

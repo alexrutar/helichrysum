@@ -1,6 +1,15 @@
 ## Chronicle State
 
+Current oath:
+
 <img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">S</span>upremacy</span>
+
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
+
+<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">D</span>evotion</span>
+
+<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">P</span>rotection</span>
+
 
 ### Dramatis Personæ
 **Chancellor:** Alexander

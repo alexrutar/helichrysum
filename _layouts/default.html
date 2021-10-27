@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+  
+var texts = [
+  "I am a sentence.",
+  "Some nice stuff.",
+  "I am random too!"
+];
+
+document.getElementById('randomText').value = texts[Math.floor(Math.random()*texts.length)];
+  
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -74,7 +83,23 @@
         <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
         <span class="octocat"></span>
       </footer>
-
+<div id="quote"></div>
+  <script>
+    (function() {
+      var quotes = [
+        {
+          text: "text1",
+        },
+        {
+          text: "text2",
+        }
+      ];
+      var quote = quotes[Math.floor(Math.random() * quotes.length)];
+      document.getElementById("quote").innerHTML =
+        '<p>' + quote.text + '</p>' +
+        '<img src="' + quote.img + '">';
+    })();
+  </script>
     </div>
   </body>
 </html>

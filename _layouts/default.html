@@ -74,30 +74,35 @@
           (function() {
             var quotes = [
               {
-                text: "The home, a crackling fire. Calm, contentedness, and ease.",
+                text: " The home, a crackling fire. Calm, contentedness, and ease. ",
+                img: "../assets/images/suit-hearth"
               },
               {
-                text: "Bright lights in the night sky. Starry-eyed discovery and esoteric tradition.",
+                text: " Bright lights in the night sky. Starry-eyed discovery and esoteric tradition. ",
+                img: "../assets/images/suit-arcane"
               },
               {
-                text: "The betrayal of a sibling. The sewers, rats chewing on spare bones.",
+                text: " The betrayal of a sibling. The sewers, rats chewing on spare bones. ",
+                img: "../assets/images/suit-discord"
               },
               {
-                text: "Sword, stone, and burnished silver. Lockstep, willing or unwilling",
+                text: " Sword, stone, and burnished silver. Lockstep, willing or unwilling. ",
+                img: "../assets/images/suit-order"
               },
               {
-                text: "Scratching, rustling in the grass. Fur, scale, and claw.",
+                text: " Scratching, rustling in the grass. Fur, scale, and claw. ",
+                img: "../assets/images/suit-beast"
               },
               {
-                text: "The sun, the moon—those traveling bodies. Care for one’s own. ",
-              },
-              {
-                text: "The sun, the moon—those traveling bodies. Care for one’s own. ",
+                text: " The sun, the moon—those traveling bodies. Care for one’s own. ",
+                img: "../assets/images/suit-nomad"
               }
             ];
             var quote = quotes[Math.floor(Math.random() * quotes.length)];
             document.getElementById("quote").innerHTML =
-              '<p>' + quote.text + '</p>';
+              '<img src="' + quote.img + '">'+
+              '<p>' + quote.text + '</p>' +
+              '<img src="' + quote.img + '">';
           })();
         </script>
         

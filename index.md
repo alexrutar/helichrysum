@@ -3,14 +3,14 @@
 **Current oath:**
 
 <div class=chancellor>
-<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
+<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath of <span class="goudy-capital">S</span>upremacy</span>
   </div>
 
-<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath of <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
-<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">D</span>evotion</span>
+<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath of <span class="goudy-capital">D</span>evotion</span>
 
-<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <i>of</i> <span class="goudy-capital">P</span>rotection</span>
+<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath of <span class="goudy-capital">P</span>rotection</span>
 
 <!-- Oath storage:
 
@@ -19,7 +19,7 @@
 
 ### Dramatis Personæ
 <div class=chancellor>
-**Chancellor:** Alexander
+<b>Chancellor:</b> Alexander
 </div>
   
 **Citizens:** Andreas

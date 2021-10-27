@@ -18,7 +18,6 @@ img {
          url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 .header-level-1 {
@@ -40,6 +39,10 @@ img {
   border-bottom: .1em solid #D3CCC1;
   line-height: 1.2;
   padding-bottom: 10px;
+  font-family: 'goudy_header'
+}
+
+.goudy-capital {
   font-family: 'goudy_header'
 }
 

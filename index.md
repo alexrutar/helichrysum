@@ -27,16 +27,14 @@ Current oath:
 
 **World Deck:** 
 
-<span id="counter" data-count="5" data-imgsrc="assets/images/suit-discord.png" ></span>
-
 |Type|Number|
 |---|---|
-|9 Discord| <img src="assets/images/suit-discord.png" style="height:1em;" /> <img src="assets/images/suit-discord.png" style="height:1em;" /> <img src="assets/images/suit-discord.png" style="height:1em;" />|
-|9 Arcane| <img src="assets/images/suit-arcane.png" style="height:1em;" />|
-|9 Order| <img src="assets/images/suit-order.png" style="height:1em;" />|
-|9 Hearth| <img src="assets/images/suit-hearth.png" style="height:1em;" />|
-|9 Beast| <img src="assets/images/suit-beast.png" style="height:1em;" />|
-|9 Nomad| <img src="assets/images/suit-nomad.png" style="height:1em;" />|
+|9 Discord| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|9 Arcane| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|9 Order| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-order.png" ></span>|
+|9 Hearth| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|9 Beast| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-beast.png" ></span>|
+|9 Nomad| <span id="counter" data-count="9" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
 [Download TTS file](tts-file)
 

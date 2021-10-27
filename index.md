@@ -1,8 +1,6 @@
 ## Chronicle State
 **Oath Sworn:** Supremacy
 
-[Download TTS file](tts-file)
-
 ### Dramatis Personæ
 **Chancellor:** Alexander
 
@@ -24,6 +22,8 @@
 - 9 Hearth <img src="assets/images/suit-hearth.png" style="height:1em;" />
 - 9 Beast <img src="assets/images/suit-beast.png" style="height:1em;" />
 - 9 Nomad <img src="assets/images/suit-nomad.png" style="height:1em;" />
+
+[Download TTS file](tts-file)
 
 ## Recent Events
 

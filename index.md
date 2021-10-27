@@ -27,7 +27,7 @@ Current oath:
 
 **World Deck:** 
 
-<script id="counter" src="script.js" data-count="5" data-imgsrc="assets/images/suit-discord.png" ></script>
+<span id="counter" data-count="5" data-imgsrc="assets/images/suit-discord.png" ></span>
 
 |Type|Number|
 |---|---|

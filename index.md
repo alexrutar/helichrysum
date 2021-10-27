@@ -1,4 +1,4 @@
-## Chronicle State
+## Game State
 
 Current oath:
 
@@ -27,7 +27,7 @@ Current oath:
 
 **World Deck:** 
 
-|Type|Number|
+|Suit|Number|
 |---|---|
 |9 Discord| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-discord.png" ></span>|
 |9 Arcane| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-arcane.png" ></span>|
@@ -38,7 +38,7 @@ Current oath:
 
 [Download TTS file](tts-file)
 
-## Recent Events
+## Chronicle
 
 ### Fifth Era of The People, Reign of Kasper IV
 Fifth "The People" game, fourth time Kasper is chancellor.

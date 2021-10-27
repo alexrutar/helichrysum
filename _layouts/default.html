@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  
-var texts = [
-  "I am a sentence.",
-  "Some nice stuff.",
-  "I am random too!"
-];
 
-document.getElementById('randomText').value = texts[Math.floor(Math.random()*texts.length)];
-  
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -26,6 +18,22 @@ document.getElementById('randomText').value = texts[Math.floor(Math.random()*tex
         $('#main_content').headsmart()
       })
     </script>
+    <script>
+      (function() {
+        var quotes = [
+          {
+            text: "text1",
+          },
+          {
+            text: "text2",
+          }
+        ];
+        var quote = quotes[Math.floor(Math.random() * quotes.length)];
+        document.getElementById("quote").innerHTML =
+          '<p>' + quote.text + '</p>';
+      })();
+    </script>
+  
 
 {% seo %}
 
@@ -70,12 +78,7 @@ document.getElementById('randomText').value = texts[Math.floor(Math.random()*tex
       <footer>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            {% if site.github.is_project_page %}
-              <p> Sword, stone, and burnished silver. Lockstep, willing or unwilling.  </p>
-            {% endif %}
-            {% if site.github.is_user_page %}
-              <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a href="{{ site.github.repository_url }}">GitHub</a></p>
-            {% endif %}
+            <span id="quote"></span>
           </span>
           <span class="left-tail"></span>
           <span class="right-tail"></span>
@@ -83,22 +86,7 @@ document.getElementById('randomText').value = texts[Math.floor(Math.random()*tex
         <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
         <span class="octocat"></span>
       </footer>
-<div id="quote"></div>
-  <script>
-    (function() {
-      var quotes = [
-        {
-          text: "text1",
-        },
-        {
-          text: "text2",
-        }
-      ];
-      var quote = quotes[Math.floor(Math.random() * quotes.length)];
-      document.getElementById("quote").innerHTML =
-        '<p>' + quote.text + '</p>';
-    })();
-  </script>
+
     </div>
   </body>
 </html>

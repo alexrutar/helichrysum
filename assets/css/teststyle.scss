@@ -60,10 +60,21 @@ section#main_content {
     min-height: 185px;
 }
 
+.color-box {
+  display: block;
+  position: relative;
+  width: 550px;
+  background: #ece4d8;
+  z-index: -10;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;"
+}
 
 body {
   background: transparent url(../images/Oath-Character-Art-Chancellor.png);
   background-repeat: no-repeat;
-  height: 500px;
+  background-size: contain;
   background-color: #ece4d8;
 }

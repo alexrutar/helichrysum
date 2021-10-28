@@ -44,10 +44,10 @@
 
 ## Krønike
 
-###  Femte Æra i Folkets tegn, Kasper IV's herredømme
+###  Femte Æra i Folkets tegn, <br/> Kasper IV's herredømme
 Femte "The people" spil, fjerde gang Kasper er rigskansler
 
-### Første Æra i Overmagtens tegn, Alexander I's herredømme
+### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme
 Første "Supremacy" spil, første gang Alexander er rigskansler
 
 ### Introduktion

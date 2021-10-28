@@ -38,6 +38,9 @@
         </span>
       </header>
       
+      <span class="banner-fix"></span>
+      
+      <div class="color-box" >
       {% if site.show_downloads %}
         <section id="downloads">
           <span class="inner">
@@ -50,15 +53,11 @@
           </span>
         </div>
       {% endif %}
-      
-      <span class="banner-fix"></span>
-
-      <div style="display: block; position: relative; width: 550px; background: #ece4d8; z-index: -999" >
-        <span class="inner"> </span>
+           
+        <section id="main_content">
+          {{ content }}
+        </section>
       </div>
-      <section id="main_content">
-        {{ content }}
-      </section>
       
       <footer>
         <span class="ribbon-outer">

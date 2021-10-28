@@ -53,7 +53,7 @@ Første "Supremacy" spil, første gang Alexander er rigskansler
 ### Introduktion
 Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første stråler, trykker Rigskansleren sin signetring mod den bløde voks. Han læner sig tilbage med et suk. "Lad det ske. Lad disse tre mægtige slægter rådne i eksil, og lad freden igen sænke sig over riget. Hvor kort den end bliver."
 
-En velklædt herrer bærende hovedstadens lilla banner bliver akkompagneret af soldater træder ind i bymidten og op på podiet. Manden rømmer sig og skråler med en skinger, men gennemtrængende stemme:
+En velklædt herre bærende hovedstadens lilla banner træder omkranset af soldater ind i bymidten og op på podiet. Manden rømmer sig og skråler med en skinger, men gennemtrængende stemme:
 
 "Borgere af provinsen, rigskansleren bringer nyt fra hovedstaden. Den royale slægt er død. Dette markerer slutningen på arvekrigene. Kejserens loyale tjener, rigskansler Alexander I udnævnes som regent af riget.
 

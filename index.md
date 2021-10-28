@@ -4,15 +4,12 @@
 
 <img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
 
+<!-- Oath storage:
 <img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 <img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
 <img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">P</span>rotection</span>
-
-<!-- Oath storage:
-
-
 -->
 
 ### Dramatis Personæ
@@ -55,9 +52,9 @@ Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første s
 
 En velklædt herre bærende hovedstadens lilla banner træder omkranset af soldater ind i bymidten og op på podiet. Manden rømmer sig og skråler med en skinger, men gennemtrængende stemme:
 
-"Borgere af provinsen, rigskansleren bringer nyt fra hovedstaden. Den royale slægt er død. Dette markerer slutningen på arvekrigene. Kejserens loyale tjener, rigskansler Alexander I udnævnes som regent af riget.
+"Borgere af provinsen, Rigskansleren bringer nyt fra hovedstaden. Den royale slægt er død. Dette markerer slutningen på arvekrigene. Kejserens loyale tjener, rigskansler Alexander I udnævnes som regent af riget.
 
-Han har sværget en ed ved tro og love at holde kejserens rige samlet, så ingen falsk konge, ingen hedensk tro, ingen tyvagtige oprørere skal adskille jer, imperiets borgere, fra jeres ret og forbindelse til hovedstaden. Kejserens dynasti er død, mens hans eftermæle og arv lever videre.
+Han har sværget en ed ved tro og lov at holde kejserens rige samlet, så ingen falsk konge, ingen hedensk tro, ingen tyvagtige oprørere skal adskille jer, imperiets borgere, fra jeres ret og forbindelse til hovedstaden. Kejserens dynasti er død, mens hans eftermæle og arv lever videre.
 
 Længe leve rigskansleren!"
 

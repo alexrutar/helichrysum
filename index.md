@@ -57,7 +57,7 @@ En velklædt herre bærende hovedstadens lilla banner træder omkranset af solda
 
 "Borgere af provinsen, rigskansleren bringer nyt fra hovedstaden. Den royale slægt er død. Dette markerer slutningen på arvekrigene. Kejserens loyale tjener, rigskansler Alexander I udnævnes som regent af riget.
 
-Han har sværget en ed ved tro og lov at holde kejserens rige samlet, så ingen falsk konge, ingen hedensk tro, ingen tyvagtige oprørere skal adskille jer, imperiets borgere, fra jeres ret og forbindelse til hovedstaden. Kejserens dynasti er død, mens hans eftermæle og arv lever videre.
+Han har sværget en ed ved tro og love at holde kejserens rige samlet, så ingen falsk konge, ingen hedensk tro, ingen tyvagtige oprørere skal adskille jer, imperiets borgere, fra jeres ret og forbindelse til hovedstaden. Kejserens dynasti er død, mens hans eftermæle og arv lever videre.
 
 Længe leve rigskansleren!"
 

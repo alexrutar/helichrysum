@@ -42,13 +42,25 @@
 
 [Download TTS file](tts-file)
 
-## Chronicle
+## Krønike
 
-### Fifth Era of The People, Reign of Kasper IV
-Fifth "The People" game, fourth time Kasper is chancellor.
+###  Femte Æra i Folkets tegn, Kasper IV's herredømme
+Femte "The people" spil, fjerde gang Kasper er rigskansler
 
-### First Era of Supremacy, Reign of Alexander I
-First "Supremacy" game, first time Alexander is chancellor.
+### Første Æra i Overmagtens tegn, Alexander I's herredømme
+Første "Supremacy" spil, første gang Alexander er rigskansler
 
-### Introduction
+### Introduktion
+Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første stråler, trykker Rigskansleren sin signetring mod den bløde voks. Han læner sig tilbage med et suk. "Lad det ske. Lad disse tre mægtige slægter rådne i eksil, og lad freden igen sænke sig over riget. Hvor kort den end bliver."
+
+En velklædt herrer bærende hovedstadens lilla banner bliver akkompagneret af soldater træder ind i bymidten og op på podiet. Manden rømmer sig og skråler med en skinger, men gennemtrængende stemme:
+
+"Borgere af provinsen, rigskansleren bringer nyt fra hovedstaden. Den royale slægt er død. Dette markerer slutningen på arvekrigene. Kejserens loyale tjener, rigskansler Alexander I udnævnes som regent af riget.
+
+Han har sværget en ed ved tro og lov at holde kejserens rige samlet, så ingen falsk konge, ingen hedensk tro, ingen tyvagtige oprørere skal adskille jer, imperiets borgere, fra jeres ret og forbindelse til hovedstaden. Kejserens dynasti er død, mens hans eftermæle og arv lever videre.
+
+Længe leve rigskansleren!"
+
+<!--
 In the dimly lit room of his stronghold, a glint of dawn peeking through the window, the chancellor hesitates a moment, then presses his seal against the molten wax. He leans back with a sigh. "It is done, then. Let these three great houses rot in exile, and let there be peace once more. However brief it may be."
+-->

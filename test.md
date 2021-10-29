@@ -17,6 +17,17 @@ layout: test
 -->
 
 ### Dramatis Personæ
+
+|<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
+|---|---|---|
+|Chancellor|Red|Blue|
+|---|---|---|
+|<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png"  class="portrait"/>|
+|---|---|---|
+|Yellow|Black|White|
+|---|---|---|
+
+
 **Chancellor:** Alexander
   
 **Citizens:** Andreas

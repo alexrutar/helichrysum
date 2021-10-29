@@ -33,7 +33,7 @@ layout: test
 
 **World Deck:** 
 
-|||
+|Suit|Number|
 |---|---|
 |9 Discord| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-discord.png" ></span>|
 |9 Arcane| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-arcane.png" ></span>|

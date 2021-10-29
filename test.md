@@ -20,9 +20,9 @@ layout: test
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|---|
-|**The Chancellor**: Alexander| **Il Duce**: Andreas (Citizen) |**El Bastardo**: Alik (Exile)|
+|**The Chancellor**: Alexander| **Il Duce, Imperial Citizen**: Andreas |**El Bastardo, Claimant in Exile**: Alik (Exile)|
 |<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png"  class="portrait"/>|
-|**Vox Populi**: Kasper (Exile)|**???**|**???**|
+|**Vox Populi, Rebel in Exile**: Kasper (Exile)|**???**|**???**|
 
 ### The World
 

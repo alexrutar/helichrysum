@@ -20,7 +20,7 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|---|
-|**The Chancellor**: <br />Alexander| **The Red Duke**: <br />Andreas (Citizen) |**El Bastardo**: <br />Alik (Exile)|
+|**The Chancellor**: <br />Alexander| **The Iron Duke**: <br />Andreas (Citizen) |**El Bastardo**: <br />Alik (Exile)|
 | | | |
 |<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
 |**Vox Populi**: <br />Kasper (Exile)|**???**|**???**|

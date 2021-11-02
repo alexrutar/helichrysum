@@ -47,15 +47,16 @@ layout: default
 
 ## Krønike
 
-###  Femte Æra i Folkets tegn, <br/> Kasper IV's herredømme
-Femte "The people" spil, fjerde gang Kasper er rigskansler
-
 ### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme
 Lederen af Vox Populi sidder i et mørkt rum i de fjerne slumområder og slikker sine sår. Slaget mod Il Duce var et blodbad. Folkets tid i lyset var kort.
 
 Han kigger over i hjørnet af sit værelse på kroen midt i saltsletterne. Det kattelignende væsen, som hjalp ham med at mønstre befolkningen i kamp mod kansleren, kigger på ham med sine røde øjne og smiler: “Der er stadig håb. Man skal blot finde nøglen til den rigtige dør.”
 
 Den efterfølgende nat kryber en mystisk skikkelse ud af mørket og rækker en nøgle frem til ham. Han sætter nøglen i, og med et klik åbner døren sig. Han befinder sig i hovedstadens barakker i nattens mulm og mørke. “Målet helliger midlet”, hvisker han til sig selv, mens han mærker det varme blod pible ud af halsen på den sovende soldat.
+
+---
+
+Test
 
 ### Introduktion
 Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første stråler, trykker Rigskansleren sin signetring mod den bløde voks. Han læner sig tilbage med et suk. "Lad det ske. Lad disse tre mægtige slægter rådne i eksil, og lad freden igen sænke sig over riget. Hvor kort den end bliver."

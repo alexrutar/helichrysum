@@ -20,7 +20,7 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|---|
-|**The Chancellor**: <br />Alexander| **The Iron Duke**: <br />Andreas (Citizen) |**El Bastardo**: <br />Alik (Exile)|
+|**Rigskansleren**: <br />Alexander| **Il Duce**: <br />Andreas (Citizen) |**El Bastardo**: <br />Alik (Exile)|
 | | | |
 |<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
 |**Vox Populi**: <br />Kasper (Exile)|**???**|**???**|
@@ -56,10 +56,14 @@ Den efterfølgende nat kryber en mystisk skikkelse ud af mørket og rækker en n
 
 ---
 
-Test
+Il Duce tager sig til hovedet. Eksil!? Efter lang tids tro tjeneste i rigets udkant, efter at have nedkæmpet Vox Populi's oprør og El Bastardo's trolddom vendte Il Duce nu ikke tilbage til rigets hjerte som sejrherre og tronfølger, men som vanæret tåbe. Det eneste håb er at påkalde sig folkets gunst, gudernes gunst og trolddommen fra sine relikvier til at grundlægge et nyt regime. Det ville kræve hurtig og handlekraftig handling, og uden kanslerens forsyninger kunne det ikke lade sig gøre med utallige soldater på slæb.
+
+Han kalder sin mægtige hær til samling, og råber med fast røst: "Mine tro følgesvende, mine loyale soldater. Den forræderiske kansler har ladet riget smuldre og har nu erklæret mig for landflygtig. I er alle tilbudt amnesti hvis I forlader min tjeneste her og nu!" Fuldstændig tavshed. "Hvis I bliver ved at følge mig, vil I også blive erklæret landflygtige," jubel hist og her begynder i folkemængden, "jeres ejendomme og rettigheder vil blive taget fra jer", jubelen tager til, "og mine løfter om status og rigdom i et styrket rige vil blive erstattet af en usikker fremtid med en hertug i eksil som jeres eneste holdepunkt." Et alt-overdøvende brøl rejser sig fra folkemængden, og ingen er den dag i tvivl. Hver eneste mand i den enorme forsamling er klar til at følge hertugen i døden. Pokkers.
 
 ### Introduktion
 Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første stråler, trykker Rigskansleren sin signetring mod den bløde voks. Han læner sig tilbage med et suk. "Lad det ske. Lad disse tre mægtige slægter rådne i eksil, og lad freden igen sænke sig over riget. Hvor kort den end bliver."
+
+---
 
 En velklædt herre bærende hovedstadens lilla banner træder omkranset af soldater ind i bymidten og op på podiet. Manden rømmer sig og skråler med en skinger, men gennemtrængende stemme:
 

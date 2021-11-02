@@ -17,7 +17,7 @@ Dette er en kladde!
 -->
 
 ## Rigskansleren
-<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>
+<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>
 
 <img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
 
@@ -28,7 +28,7 @@ Dette er en kladde!
 - Buried Giant
 
 **World deck**
-+3 <img src="assets/images/suit-order.png"/>, +2 <img src="assets/images/suit-hearth.png"/>, +1 <img src="assets/images/suit-beast.png"/>.
++3 <img src="assets/images/suit-order.png" style="height:1em;/>, +2 <img src="assets/images/suit-hearth.png" style="height:1em;/>, +1 <img src="assets/images/suit-beast.png" style="height:1em;/>.
 
 Må desuden bygge et _bygningsværk_.
 
@@ -42,7 +42,7 @@ Må desuden bygge et _bygningsværk_.
 **Sites**:
 
 **World deck**
-+3 <img src="assets/images/suit-arcane.png"/>, +2 <img src="assets/images/suit-order.png"/>, +1 <img src="assets/images/suit-hearth.png"/>.
++3 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +2 <img src="assets/images/suit-order.png" style="height:1em;/>, +1 <img src="assets/images/suit-hearth.png" style="height:1em;/>.
 
 
 ## El Bastardo
@@ -53,7 +53,7 @@ Må desuden bygge et _bygningsværk_.
 **Sites**:
 
 **World deck**
-+3 <img src="assets/images/suit-arcane.png"/>, +2 <img src="assets/images/suit-order.png"/>, +1 <img src="assets/images/suit-hearth.png"/>.
++3 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +2 <img src="assets/images/suit-order.png" style="height:1em;/>, +1 <img src="assets/images/suit-hearth.png" style="height:1em;/>.
 
 ## Vox Populi
 <img src="assets/images/yellow-portrait.png" class="portrait"/>
@@ -66,4 +66,4 @@ Må desuden bygge et _bygningsværk_.
 - Great Slum
 
 **World deck**
-+3 <img src="assets/images/suit-discord.png"/>, +2 <img src="assets/images/suit-arcane.png"/>, +1 <img src="assets/images/suit-order.png"/>.
++3 <img src="assets/images/suit-discord.png" style="height:1em;/>, +2 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +1 <img src="assets/images/suit-order.png" style="height:1em;/>.

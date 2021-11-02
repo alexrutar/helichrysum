@@ -6,6 +6,12 @@ layout: default
 
 Dette er en kladde!
 
+**Oath reference**
+- Supremacy: Rule the most sites
+- The People: Hold the People's Favor
+- Protection: Hold the most relics and banners
+- Devotion: Hold the Darkest Secret
+
 <!-- Oath storage:
 <img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
 

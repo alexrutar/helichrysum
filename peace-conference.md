@@ -27,7 +27,8 @@ Dette er en kladde!
 - Mountain (Taming Charm)
 - Buried Giant
 
-**World deck**
+**World deck**:
+
 +3 <img src="assets/images/suit-order.png" style="height:1em;/>, +2 <img src="assets/images/suit-hearth.png" style="height:1em;/>, +1 <img src="assets/images/suit-beast.png" style="height:1em;/>.
 
 Må desuden bygge et _bygningsværk_.
@@ -41,7 +42,8 @@ Må desuden bygge et _bygningsværk_.
 
 **Sites**:
 
-**World deck**
+**World deck**:
+  
 +3 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +2 <img src="assets/images/suit-order.png" style="height:1em;/>, +1 <img src="assets/images/suit-hearth.png" style="height:1em;/>.
 
 
@@ -52,7 +54,8 @@ Må desuden bygge et _bygningsværk_.
 
 **Sites**:
 
-**World deck**
+**World deck**:
+
 +3 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +2 <img src="assets/images/suit-order.png" style="height:1em;/>, +1 <img src="assets/images/suit-hearth.png" style="height:1em;/>.
 
 ## Vox Populi
@@ -65,5 +68,6 @@ Må desuden bygge et _bygningsværk_.
 - Wastes (Book Burning)
 - Great Slum
 
-**World deck**
+**World deck**:
+  
 +3 <img src="assets/images/suit-discord.png" style="height:1em;/>, +2 <img src="assets/images/suit-arcane.png" style="height:1em;/>, +1 <img src="assets/images/suit-order.png" style="height:1em;/>.

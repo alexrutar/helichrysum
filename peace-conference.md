@@ -38,7 +38,6 @@ Må desuden bygge et _bygningsværk_.
 <img src="assets/images/red-portrait.png" class="portrait"/>
 
 <img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
--->
 
 **Sites**:
 

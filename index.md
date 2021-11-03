@@ -46,6 +46,8 @@ layout: default
 
 [Download TTS file](tts-file)
 
+[Fredskonference](https://andbm.github.com/oath-chronicle/peace-conference)
+
 ## Krønike
 
 ### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme

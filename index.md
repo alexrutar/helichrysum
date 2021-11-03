@@ -1,4 +1,5 @@
 ---
+title: Game State
 layout: default
 ---
 

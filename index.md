@@ -44,9 +44,9 @@ layout: default
 |9 Beast| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-beast.png" ></span>|
 |9 Nomad| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
-<a href=tts-file>Download TTS file</a>
+<a href="tts-file">Download TTS file</a>
 
-<a href=https://andbm.github.com/oath-chronicle/peace-conference>Fredskonference</a>
+<a href="https://andbm.github.com/oath-chronicle/peace-conference">Fredskonference</a>
 
 ## Krønike
 

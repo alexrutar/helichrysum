@@ -6,7 +6,7 @@ layout: default
 
 Dette er en kladde!
 
-### <a href="https://docs.google.com/forms/d/e/1FAIpQLSeVmSODa6ZD3D5SQmIOIBSDgSmJWa7Y68W2Lu00MeQj6mo-3g/viewform?usp=sf_link">Stem her!</a>
+### [Stem her!](https://docs.google.com/forms/d/e/1FAIpQLSeVmSODa6ZD3D5SQmIOIBSDgSmJWa7Y68W2Lu00MeQj6mo-3g/viewform?usp=sf_link)
 
 **Oath reference**
 - Supremacy: Rule the most sites

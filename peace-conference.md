@@ -29,7 +29,7 @@ Dette er en kladde!
 ## Rigskansleren
 <img src="assets/images/chancellor-portrait.jpg" class="portrait"/>
 
-<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
+<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
 **Sites**:
 - Plains (Key to the City, Storyteller)
@@ -59,7 +59,7 @@ Må desuden bygge et _bygningsværk_.
 ## El Bastardo
 <img src="assets/images/blue-portrait.png" class="portrait"/>
 
-<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 **Sites**:
 

@@ -4,8 +4,6 @@ layout: default
 
 # Fredskonference
 
-Dette er en kladde!
-
 [Tilbage](https://abmichelsen.com/oath-chronicle/)
 
 ### [Stem her!](https://docs.google.com/forms/d/e/1FAIpQLSeVmSODa6ZD3D5SQmIOIBSDgSmJWa7Y68W2Lu00MeQj6mo-3g/viewform?usp=sf_link)
@@ -29,7 +27,7 @@ Dette er en kladde!
 ## Rigskansleren
 <img src="assets/images/chancellor-portrait.jpg" class="portrait"/>
 
-<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 **Sites**:
 - Plains (Key to the City, Storyteller)

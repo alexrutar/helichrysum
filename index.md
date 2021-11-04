@@ -46,7 +46,7 @@ layout: default
 
 [Download TTS file](tts-file)
 
-[Fredskonference](https://andbm.github.com/oath-chronicle/peace-conference)
+[Fredskonference](https://abmichelsen.com/oath-chronicle/peace-conference)
 
 ## Krønike
 

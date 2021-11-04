@@ -63,6 +63,20 @@ Il Duce tager sig til hovedet. Eksil!? Efter lang tids tro tjeneste i rigets udk
 
 Han kalder sin mægtige hær til samling, og råber med fast røst: "Mine tro følgesvende, mine loyale soldater. Den forræderiske kansler har ladet riget smuldre og har nu erklæret mig for landflygtig. I er alle tilbudt amnesti hvis I forlader min tjeneste her og nu!" Fuldstændig tavshed. "Hvis I bliver ved at følge mig, vil I også blive erklæret landflygtige," jubel hist og her begynder i folkemængden, "jeres ejendomme og rettigheder vil blive taget fra jer", jubelen tager til, "og mine løfter om status og rigdom i et styrket rige vil blive erstattet af en usikker fremtid med en hertug i eksil som jeres eneste holdepunkt." Et alt-overdøvende brøl rejser sig fra folkemængden, og ingen er den dag i tvivl. Hver eneste mand i den enorme forsamling er klar til at følge hertugen i døden, og videre endda. Pokkers.
 
+---
+
+Bastardens Dagbog: En Ydmygende Retur.
+
+”Jeg afgav et løfte, en ed! Den skæbnesvangre nat for 13 år siden. Jeg svor…” 
+
+”Hybris kan vise sig skarpere end lejemorderens kniv, spidsere end langbuernes pil og mere fatal end baggårdsluderens skede. En smertefuld lektie jeg aldrig glemmer igen. Pokker tag mig! Det skulle have været en strålende retur for El Bastardo! En overbevisende sejr! Men billedet mine spioner malede kunne ikke afspejle den hårde virkelighed mindre.” 
+
+”På trods af den nye titel, skulle den tidligere tyrans løjtnant, Alexander I, ikke være andet end en glorificeret stikirenddreng. Men nu har jeg set, hvilket monster der i virkeligheden gemmer sig. Fanden tag hvad end jeg skulle dele med ham af blod! Få ting giver mig så meget lykke som at se mit eget blod flyde i kamp. For hvis bare en enkel dråbe af giften, af det forbandede…”
+
+”Og de to andre. Den gule satan har altid haft et pænt ansigt over for folket og min efterretning på ham bekræfter dette. Selv under oprøret var beretningerne om ham hæderlige. Men nu ved jeg bedre. I et kort, flygtigt øjeblik så jeg, hvilken blodtørstig fanatisme der lå gemt, dybt bag hans venlige øjne. Og Il Duce, den gamle ræv. Han skulle angiveligt være i sit efterår. ”Hans tid er forbi, han er færdig” sagde mine spioner. Men pokker tag mig, om den røde djævel ikke er den mest snu og kyniske strateg i hele riget!”
+
+”Det er min egen fejl. Når mine tilhængere, mine rådgivere og konfidanter ikke er andet end forbandede sycophanter, ville dette altid være udfaldet. Måske dette var et nødvendigt nederlag, et nødvendigt onde til at styrke mig. Ja! Det var ikke mig, der blev besejret, det var min hybris! Det var mit hof. Det var den falske virkelighed, jeg troede, jeg så. Men nu ved jeg bedre. Nu er jeg bedre. Nu er jeg alene. Igen. Uden nogen at stole på. Uden nogen at forråde mig. Det er nu, jeg er bedst, det er nu, jeg er mig, ligesom dengang…”
+
 ### Introduktion
 Mens det dystre kammer i hjertet af hans fæstning rammes af daggryets første stråler, trykker Rigskansleren sin signetring mod den bløde voks. Han læner sig tilbage med et suk. "Lad det ske. Lad disse tre mægtige slægter rådne i eksil, og lad freden igen sænke sig over riget. Hvor kort den end bliver."
 

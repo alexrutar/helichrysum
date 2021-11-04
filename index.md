@@ -7,14 +7,16 @@ layout: default
 
 **Current oath:**
 
-<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
+<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
 
 <!-- Oath storage:
+
+<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
+
 <img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 <img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
-<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
 -->
 
 ### Dramatis Personæ
@@ -24,31 +26,59 @@ layout: default
 |**Rigskansleren**: <br />Alexander| **Il Duce**: <br />Andreas (Exile) |**El Bastardo**: <br />Alik (Exile)|
 | | | |
 |<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
-|**Vox Populi**: <br />Kasper (Exile)|**???**|**???**|
+|**Vox Populi**: <br />Kasper (Citizen)|**???**|**???**|
 
 ### The World
 
 **Sites in play:** 
-- Plains (Longbows)
-- Mountains (Taming Charm)
-- Rocky Coast (Elders)
+- Lush Coast (Forest Paths, Sprawling Rampart, Traveling Doctor)
+- Narrow Pass
+- Plains (Hall of Mockery)
 
 **World Deck:** 
 
 |Suit|Number|
 |---|---|
-|9 Discord| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-discord.png" ></span>|
-|9 Arcane| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|9 Order| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-order.png" ></span>|
-|9 Hearth| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|7 Discord| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|10 Order| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-order.png" ></span>|
+|12 Hearth| <span class="counter" data-count="12" data-imgsrc="assets/images/suit-hearth.png" ></span>|
 |9 Beast| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|9 Nomad| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|10 Nomad| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+
+<!--
+
++3 order
++2 hearth
++1 beast
+
++3 hearth
++2 beast
++1 nomad
+
+-3 beast
+-2 order
+-3 arcane
+-2 discord
+-2 hearth
+
+Total:
+-2 discord
+-3 arcane
++1 order
++3 hearth
++0 beast
++1 nomad
+
+-->
 
 [Download TTS file](tts-file)
 
-[Fredskonference](https://abmichelsen.com/oath-chronicle/peace-conference)
-
 ## Krønike
+
+### Første Æra i Bevarelsens tegn, <br/> Alexander I's tredje herredømme
+
+### Første Æra i Folkets tegn, <br/> Alexander I's andet herredømme
 
 ### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme
 Lederen af Vox Populi sidder i et mørkt rum i de fjerne slumområder og slikker sine sår. Slaget mod Il Duce var et blodbad. Folkets tid i lyset var kort.

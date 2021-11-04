@@ -11,7 +11,7 @@ layout: default
 **Oath reference**
 - Supremacy: Rule the most sites
 - The People: Hold the People's Favor
-- Protection: Hold the most relics and banners
+- Sanctuary: Hold the most relics and banners
 - Devotion: Hold the Darkest Secret
 
 <!-- Oath storage:

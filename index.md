@@ -79,9 +79,9 @@ Total:
 
 ## Krønike
 
-### Første Æra i Bevarelsens tegn, <br/> Alexander I's tredje herredømme
+### Tredje Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 
-### Første Æra i Folkets tegn, <br/> Alexander I's andet herredømme
+### Anden Æra i Folkets tegn, <br/> Alexander II's herredømme
 
 ### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme
 Lederen af Vox Populi sidder i et mørkt rum i de fjerne slumområder og slikker sine sår. Slaget mod Il Duce var et blodbad. Folkets tid i lyset var kort.

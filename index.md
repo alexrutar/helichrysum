@@ -39,45 +39,33 @@ layout: default
 
 |Suit|Number|
 |---|---|
-|7 Discord| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|8 Discord| <span class="counter" data-count="8" data-imgsrc="assets/images/suit-discord.png" ></span>|
 |6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|10 Order| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-order.png" ></span>|
-|12 Hearth| <span class="counter" data-count="12" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|9 Order| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-order.png" ></span>|
+|11 Hearth| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-hearth.png" ></span>|
 |9 Beast| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|10 Nomad| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|11 Nomad| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
 <!--
 
-+3 order
-+2 hearth
-+1 beast
-
-+3 hearth
-+2 beast
-+1 nomad
-
--3 beast
--2 order
--3 arcane
--2 discord
--2 hearth
-
 Total:
--2 discord
+-1 discord
 -3 arcane
-+1 order
-+3 hearth
+0 order
++2 hearth
 +0 beast
-+1 nomad
++2 nomad
 
 -->
 
 **TTS Chronicle**
 ```
-030303000313The First Chronicle2B0803012345082AC6321EFFFFFF0CFFFFDC2BFFFFFF28FFFFFF1FFFFFFF1BFFFFFF04C9FFFF39C516D507AF2F24D417151D01307C0CD2050A100B202C8F8C31D31F2B77D6142D087F340D0467B81C87289C22111B191A33090E061318021E880C270325262E290F213512002313EAECE6E8DBE7E2E4DDE0DEDFEDDAE5E1EBE3E9002006Xinsor
+030303000413The First Chronicle2B0A0201234508C601FF06FFFFE20C16D0DC25FFFFFF2BFFFFFF01FFFFFF1BFFFFFF28FFFFFF3928D28704A40AD41458243D77B8092AD37C2B34D61B3320170E8CD59E2C110532301C0B0C7F10AFC51D2D0D182F31075E8F13671E069C9B1F08122712352E2625210F230300291A191588022212DEDDEBE7EDE0E8E6E5E4ECEADBE9DAE1DFE3080804Fyhn
 ```
 
 ## Krønike
+
+### Første Æra i Hengivenhedens tegn, <br/> Kasper I's herredømme
 
 ### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 

@@ -31,9 +31,9 @@ layout: default
 ### The World
 
 **Sites in play:** 
-- Lush Coast (Forest Paths, Sprawling Rampart, Traveling Doctor)
-- Narrow Pass
-- Plains (Hall of Mockery)
+- Lush Coast (Sprawling Rampart, Battle Honors)
+- Steppe
+- Narrow Pass (Ancient Binding, Ancient Forge)
 
 **World Deck:** 
 
@@ -58,6 +58,9 @@ Total:
 
 -->
 
+**Dispossessed:** 
+Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer.
+
 **TTS Chronicle**
 ```
 030303000413The First Chronicle2B0A0201234508C601FF06FFFFE20C16D0DC25FFFFFF2BFFFFFF01FFFFFF1BFFFFFF28FFFFFF3928D28704A40AD41458243D77B8092AD37C2B34D61B3320170E8CD59E2C110532301C0B0C7F10AFC51D2D0D182F31075E8F13671E069C9B1F08122712352E2625210F230300291A191588022212DEDDEBE7EDE0E8E6E5E4ECEADBE9DAE1DFE3080804Fyhn
@@ -69,9 +72,13 @@ Total:
 
 ### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 
+Il Duce holder den magiske ring foran sit ansigt. "Hævnens time er kommet. Rigskanslerens hær vil blive udraderet, og en ny ære begynde" mumler han for sig selv, idet hans øverste rådgiver, iklædt en tung kutte dækket i trolddomsruner, træder ind ad døren. "Dårligt nyt, Herre. Kansleren har genoprettet forsyningslinjerne til hovedstaden, og selv med en overvældende sejr vil få eller ingen af hans soldater blive gjort ukampdygte." Il Duce's øjne spiles op ad raseri. "HVAD!? Umuligt! Det er nu eller aldrig, det ved du bedst af alle!". Rådgiveren betragter ham køligt under hætten, men siger ikke et ord. Il Duce ved hvad plan B er. Han sukker dybt. En hæslig forbandelse over det gamle hjemland, som hævn over generationers eksil. En forbandelse der i ét glimt kan udslukke al hjemligt lys, nedbryde al orden. Så han, Il Duce, kan bygge det op igen. En dag.
+
+"Nuvel", siger sorgfulde hertug. "Så rejser vi mod hovedstaden."
+
 ### Første Æra i Folkets tegn, <br/> Alexander II's herredømme
 
-Bastardens Dagbog: Håb for fremtiden.
+_Bastardens Dagbog: Håb for fremtiden_.
 
 ”El Bastardos første introduktion til riget var alt andet end en succes. Men på trods af, at mit andet togt ikke endte med kronen, fik jeg genvundet min tabte ære. Nu ved de andre, de forbandede, korrupte amøber, hvilket hævngerrigt inferno der brænder dybt i mit hjerte. Selvom de denne gang blot fik en lille smagsprøve, så har de mærket varmen, de kender nu deres uundgåelige skæbne.”
 
@@ -96,7 +103,7 @@ Han kalder sin mægtige hær til samling, og råber med fast røst: "Mine tro f�
 
 ---
 
-Bastardens Dagbog: En Ydmygende Retur.
+_Bastardens Dagbog: En Ydmygende Retur._
 
 ”Jeg afgav et løfte, en ed! Den skæbnesvangre nat for 13 år siden. Jeg svor…” 
 

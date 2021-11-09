@@ -7,7 +7,7 @@ layout: default
 
 **Current oath:**
 
-<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
+<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
 <!-- Oath storage:
 
@@ -15,7 +15,7 @@ layout: default
 
 <img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
-<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
+<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
 
 -->
 
@@ -23,10 +23,10 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|---|
-|**Rigskansleren**: <br />Alexander| **Il Duce**: <br />Andreas (Exile) |**El Bastardo**: <br />Alik (Exile)|
+|**Rigskansleren**: <br />Kasper| **Il Duce**: <br />Andreas (Exile) |**El Bastardo**: <br />Alik (Citizen)|
 | | | |
 |<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
-|**Vox Populi**: <br />Kasper (Citizen)|**???**|**???**|
+|**Vox Populi**: <br />-|**???**|**???**:<br />Alexander (Citizen)|
 
 ### The World
 

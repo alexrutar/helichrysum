@@ -21,12 +21,19 @@ layout: default
 
 ### Dramatis Personæ
 
-|<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
-|---|---|---|
-|**Rigskansleren**: <br />Kasper| **Il Duce**: <br />Andreas (Exile) |**El Bastardo**: <br />Alik (Citizen)|
-| | | |
-|<img src="assets/images/yellow-portrait.png" class="portrait"/>|<img src="assets/images/white-portrait.png" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
-|**Vox Populi**: <br />-|**???**|**???**:<br />Alexander (Citizen)|
+|<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
+|---|---|
+|**Rigskansleren**: <br />Kasper|**El Bastardo**: <br />Alik (Citizen)|
+| | |
+|<img src="assets/images/black-portrait.png"  class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|
+|**???**:<br />Alexander (Citizen)| **Il Duce**: <br />Andreas (Exile) |
+
+<!--
+<img src="assets/images/yellow-portrait.png" class="portrait"/>
+**Vox Populi**: <br /> Kasper ()
+
+<img src="assets/images/white-portrait.png" class="portrait"/>
+-->
 
 ### The World
 

@@ -79,9 +79,19 @@ Total:
 
 ## Krønike
 
-### Tredje Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
+### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 
-### Anden Æra i Folkets tegn, <br/> Alexander II's herredømme
+### Første Æra i Folkets tegn, <br/> Alexander II's herredømme
+
+Bastardens Dagbog: Håb for fremtiden.
+
+”El Bastardos første introduktion til riget var alt andet end en succes. Men på trods af, at mit andet togt ikke endte med kronen, fik jeg genvundet min tabte ære. Nu ved de andre, de forbandede, korrupte amøber, hvilket hævngerrigt inferno der brænder dybt i mit hjerte. Selvom de denne gang blot fik en lille smagsprøve, så har de mærket varmen, de kender nu deres uundgåelige skæbne.”
+
+”Min determination til at vende aggressivt og nådesløst tilbage, viste sig at være den helt rette strategi. Og for måske første gang i mit tragiske liv, oplevede jeg hvordan Den Gyldne Gudinde velsignede mig med sit blændende smil, da den smaragdgrønne djembe faldt i mine hænder dybt i drageruinernes afkroge. Dette magiske slagtøj producerede rytmer uden mage: rebelske takter, som fik enhver krigers hjerte til at bruse over af kampgejst. Med disse rytmer i ryggen, tog det ingen tid, før den første sejr kunne pryde mit banner. Den gæve Vox kunne ikke matche min pludseligt opståede hær, og dermed kunne jeg erobre mit andet relikvie: den gule djævels elskede messinghest. Et bæst fra fjerne regioner i østen, som med sin stædige evne til at trave under alle tænkelige vejrforhold og underlag, var netop den loyale partner jeg havde brug for. På dens skinnende ryg var alle rigets hjørner nu nabostæder, og tilslutningen til min armada blev en bagatel.”
+
+”Efter flere grusomme møder med den gule satan og den røde ræv, stod jeg blodig og mør tilbage, men farligere og stærkere end før. Med endnu flere klenodier og en hær fuld af momentum var jeg klar til at marchere mod tronen. Men jeg var for langsom, og jeg vidste det. For selvfølgelig har canceren med kronen ikke siddet stille og kigge på, den type væsen er han ikke. Om jeg vil det eller jeg, deler vi blod. Og har han blot en dråbe af den samme sorte, tyktflydende Styx, som flyder gennem mine årer, så ville dette altid være blevet udfaldet. Han var for hurtig, og for snu. På den tid jeg havde bygget mine tropper og mit arsenal op, havde han sit scepter for dybt oppe i røven på riget. Folket havde talt. Min styrke var ligegyldig.” 
+
+”Men jeg har allerede bevist, at jeg kan komme igen. Og komme igen med en tordnende revanche. Og jeg gør det gerne igen. Og igen. Indtil mit løfte bliver til virkelighed…”
 
 ### Første Æra i Overmagtens tegn, <br/> Alexander I's herredømme
 Lederen af Vox Populi sidder i et mørkt rum i de fjerne slumområder og slikker sine sår. Slaget mod Il Duce var et blodbad. Folkets tid i lyset var kort.

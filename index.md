@@ -77,6 +77,25 @@ Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wiza
 
 ### Første Æra i Hengivenhedens tegn, <br/> Kasper I's herredømme
 
+### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
+
+Il Duce holder den magiske ring foran sit ansigt. "Hævnens time er kommet. Rigskanslerens hær vil blive udraderet, og en ny æra begynde" mumler han for sig selv, idet hans øverste rådgiver, iklædt en tung kutte dækket i trolddomsruner, træder ind ad døren. "Dårligt nyt, Herre. Kansleren har genoprettet forsyningslinjerne til hovedstaden, og selv med en overvældende sejr vil få eller ingen af hans soldater blive gjort ukampdygte." Il Duce's øjne spiles op i raseri. "HVAD!? Umuligt! Det er nu eller aldrig, det ved du bedst af alle!". Rådgiveren betragter ham køligt under hætten, men siger ikke et ord. Il Duce ved hvad plan B er. En hæslig forbandelse over det gamle hjemland, som hævn over generationers eksil. En forbandelse der i ét glimt kan udslukke al hjemligt lys, nedbryde al orden. Så han, Il Duce, kan bygge det op igen. En dag.
+
+"Nuvel", siger den sorgfulde hertug. "Så rejser vi mod hovedstaden."
+
+---
+
+Ved Den Frodige Kyst skinner solen, og folket er samlet foran kanslerens domicil. En gullig iklædt skikkelse træder ud på balkonen. 
+
+“Folkets stemme er vores kald. Vi lytter og handler derefter. Vi er Vox Populi. Først var stemmen rasende. Efter flere års tyranni og arrogance kaldte stemmen på hævn, og vi drog i en blodig krig mod Alexander I. Vi havde sejre, jovist, men prisen var en del af vores sjæl og alt for mange menneskers blod. Det er folket ikke tjent med. Under Alexander III var vi sande tjenere af folket. Vi rejste riget rundt, skabte alliancer og sikrede rigdom og velstand. Således vandt vi folkets gunst. 
+Længe var der fred, men den varede ikke ved. Den Blodige Greve ønskede vendetta for en gammel fejde, og Bastarden hviskede søde ord til hoffet. Men riget bestod, for folkets stemme råbte: ‘Vi vil fred!’ Og her står vi dag, Vox Populi, hengivne til folket.”
+
+Under jubel fra de tilhørende iklædes skikkelsen en maske og en lilla kåbe og rækkes det gyldne scepter.
+
+---
+
+_Epilog_:
+
 Med min aldrende onkel red jeg ud på en færd<br />
 Til den vindblæste slette, hvor det eneste læ<br />
 Er en væltet, overgroet ruin, så her<br />
@@ -94,21 +113,6 @@ kun spot og spe." Han stopper med at fortælle.<br />
 Langt herfra findes nu byens trængsel<br />
 På sletten blot mig og min onkel, grå af ælde<br />
 Snart smuldrer mindet sammen med hans længsel<br />
-
-### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
-
-Il Duce holder den magiske ring foran sit ansigt. "Hævnens time er kommet. Rigskanslerens hær vil blive udraderet, og en ny æra begynde" mumler han for sig selv, idet hans øverste rådgiver, iklædt en tung kutte dækket i trolddomsruner, træder ind ad døren. "Dårligt nyt, Herre. Kansleren har genoprettet forsyningslinjerne til hovedstaden, og selv med en overvældende sejr vil få eller ingen af hans soldater blive gjort ukampdygte." Il Duce's øjne spiles op i raseri. "HVAD!? Umuligt! Det er nu eller aldrig, det ved du bedst af alle!". Rådgiveren betragter ham køligt under hætten, men siger ikke et ord. Il Duce ved hvad plan B er. En hæslig forbandelse over det gamle hjemland, som hævn over generationers eksil. En forbandelse der i ét glimt kan udslukke al hjemligt lys, nedbryde al orden. Så han, Il Duce, kan bygge det op igen. En dag.
-
-"Nuvel", siger den sorgfulde hertug. "Så rejser vi mod hovedstaden."
-
----
-
-Ved Den Frodige Kyst skinner solen, og folket er samlet foran kanslerens domicil. En gullig iklædt skikkelse træder ud på balkonen. 
-
-“Folkets stemme er vores kald. Vi lytter og handler derefter. Vi er Vox Populi. Først var stemmen rasende. Efter flere års tyranni og arrogance kaldte stemmen på hævn, og vi drog i en blodig krig mod Alexander I. Vi havde sejre, jovist, men prisen var en del af vores sjæl og alt for mange menneskers blod. Det er folket ikke tjent med. Under Alexander III var vi sande tjenere af folket. Vi rejste riget rundt, skabte alliancer og sikrede rigdom og velstand. Således vandt vi folkets gunst. 
-Længe var der fred, men den varede ikke ved. Den Blodige Greve ønskede vendetta for en gammel fejde, og Bastarden hviskede søde ord til hoffet. Men riget bestod, for folkets stemme råbte: ‘Vi vil fred!’ Og her står vi dag, Vox Populi, hengivne til folket.”
-
-Under jubel fra de tilhørende iklædes skikkelsen en maske og en lilla kåbe og rækkes det gyldne scepter.
 
 ### Første Æra i Folkets tegn, <br/> Alexander II's herredømme
 

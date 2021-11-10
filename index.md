@@ -77,20 +77,20 @@ Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wiza
 
 ### Første Æra i Hengivenhedens tegn, <br/> Kasper I's herredømme
 
-_Med min aldrende onkel red jeg ud på en færd
-Til den vindblæste slette, hvor eneste læ
-Er en væltet, overgroet ruin, så her
-Slog vi lejr for natten og bandt vore kræ
-Ved bålet sagde onkel "En umådelig hær
-udkæmpede et slag, og da krigen var endt
-Til folket svor Alexander en hellig ed
-og herskeren lod her opføre et parlament
-Men oplyst debat blev med tiden til pøbelvælde
-og i salen rungede, før den dækkedes med blad og ved,
-kun spot og spe." Han stopper med at fortælle.
-Langt herfra findes nu byens trængsel
-På sletten blot mig og min onkel, grå af ælde
-Snart smuldrer mindet sammen med hans længsel_
+Med min aldrende onkel red jeg ud på en færd<br />
+Til den vindblæste slette, hvor eneste læ<br />
+Er en væltet, overgroet ruin, så her<br />
+Slog vi lejr for natten og bandt vore kræ<br />
+Ved bålet sagde onkel "En umådelig hær<br />
+udkæmpede et slag, og da krigen var endt<br />
+Til folket svor Alexander en hellig ed<br />
+og herskeren lod her opføre et parlament<br />
+Men oplyst debat blev med tiden til pøbelvælde<br />
+og i salen rungede, før den dækkedes med blad og ved,<br />
+kun spot og spe." Han stopper med at fortælle.<br />
+Langt herfra findes nu byens trængsel<br />
+På sletten blot mig og min onkel, grå af ælde<br />
+Snart smuldrer mindet sammen med hans længsel<br />
 
 ### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 

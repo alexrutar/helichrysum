@@ -101,11 +101,10 @@ Il Duce holder den magiske ring foran sit ansigt. "Hævnens time er kommet. Rigs
 ---
 
 Ved Den Frodige Kyst skinner solen, og folket er samlet foran kanslerens domicil. En gullig iklædt skikkelse træder ud på balkonen. 
-“Folkets stemme er vores kald. Vi lytter og handler derefter. Vi er Vox Populi.
-Først var stemmen rasende. Efter flere års tyranni og arrogance kaldte stemmen på hævn, og vi drog i en blodig krig mod Alexander I. Vi havde sejre, jovist, men prisen var en del af vores sjæl og alt for mange menneskers blod. Det er folket ikke tjent med.
-Under Alexander III var vi sande tjenere af folket. Vi rejste riget rundt, skabte alliancer og sikrede rigdom og velstand. Således vandt vi folkets gunst. 
-Længe var der fred, men den varede ikke ved. Den Blodige Greve ønskede vendetta for en gammel fejde, og Bastarden hviskede søde ord til hoffet.
-Men riget bestod, for folkets stemme råbte: ‘Vi vil fred!’ Og her står vi dag, Vox Populi, hengivne til folket.”
+
+“Folkets stemme er vores kald. Vi lytter og handler derefter. Vi er Vox Populi. Først var stemmen rasende. Efter flere års tyranni og arrogance kaldte stemmen på hævn, og vi drog i en blodig krig mod Alexander I. Vi havde sejre, jovist, men prisen var en del af vores sjæl og alt for mange menneskers blod. Det er folket ikke tjent med. Under Alexander III var vi sande tjenere af folket. Vi rejste riget rundt, skabte alliancer og sikrede rigdom og velstand. Således vandt vi folkets gunst. 
+Længe var der fred, men den varede ikke ved. Den Blodige Greve ønskede vendetta for en gammel fejde, og Bastarden hviskede søde ord til hoffet. Men riget bestod, for folkets stemme råbte: ‘Vi vil fred!’ Og her står vi dag, Vox Populi, hengivne til folket.”
+
 Under jubel fra de tilhørende iklædes skikkelsen en maske og en lilla kåbe og rækkes det gyldne scepter.
 
 ### Første Æra i Folkets tegn, <br/> Alexander II's herredømme

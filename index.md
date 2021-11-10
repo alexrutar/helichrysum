@@ -111,7 +111,7 @@ og i salen rungede, før den dækkedes med blade og ved,<br />
 kun spot og spe." Han stopper med at fortælle.<br />
 
 Langt herfra findes nu byens trængsel<br />
-På sletten blot mig og min onkel, grå af ælde<br />
+På sletten sidder jeg ene med min onkel, grå af ælde<br />
 Snart smuldrer mindet sammen med hans længsel<br />
 
 ### Første Æra i Folkets tegn, <br/> Alexander II's herredømme

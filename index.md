@@ -66,7 +66,7 @@ Total:
 -->
 
 **Dispossessed:** 
-Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer.
+Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer.
 
 **TTS Chronicle**
 ```

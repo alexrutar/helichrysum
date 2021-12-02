@@ -7,13 +7,13 @@ layout: default
 
 **Current oath:**
 
-<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 <!-- Oath storage:
 
 <img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
 
-<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
+<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
 <img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>
 
@@ -23,57 +23,60 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|
-|**Rigskansleren**: <br />Kasper|**El Bastardo**: <br />Alik (Citizen)|
+|**Rigskansleren**: <br />Andreas|**El Bastardo**: <br />Alik (Exile)|
 | | |
-|<img src="assets/images/black-portrait.png"  class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|
-|**Loyalisten**:<br />Alexander (Citizen)| **Den Blodige Greve**: <br />Andreas (Exile) |
+|<img src="assets/images/black-portrait.png"  class="portrait"/>|<img src="assets/images/yellow-portrait.png" class="portrait"/>|
+|**Loyalisten**:<br />Alexander (Exile)| **Vox Populi**: <br /> Kasper (Exile) |
 
 <!--
 <img src="assets/images/yellow-portrait.png" class="portrait"/>
-**Vox Populi**: <br /> Kasper ()
 
+**Den Blodige Greve**: <br />Andreas (Exile) 
 <img src="assets/images/white-portrait.png" class="portrait"/>
 -->
 
 ### The World
 
 **Sites in play:** 
-- Lush Coast (Sprawling Rampart, Battle Honors)
-- Steppe
-- Narrow Pass (Ancient Binding, Ancient Forge)
+- Buried Giant (Welcoming Party, Martial Culture)
+- Mine
+- Lush Coast (Bandit Rampart)
+- Narrow Pass (Broken Forge)
 
 **World Deck:** 
 
 |Suit|Number|
 |---|---|
-|8 Discord| <span class="counter" data-count="8" data-imgsrc="assets/images/suit-discord.png" ></span>|
-|6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|9 Order| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-order.png" ></span>|
-|11 Hearth| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-hearth.png" ></span>|
-|9 Beast| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|11 Nomad| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|6 Discord| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|5 Arcane| <span class="counter" data-count="5" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|11 Order| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-order.png" ></span>|
+|12 Hearth| <span class="counter" data-count="12" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|10 Beast| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-beast.png" ></span>|
+|10 Nomad| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
 <!--
 
 Total:
--1 discord
--3 arcane
-0 order
-+2 hearth
-+0 beast
-+2 nomad
+-3 discord
+-4 arcane
++2 order
++3 hearth
++1 beast
++1 nomad
 
 -->
 
 **Dispossessed:** 
-Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer.
+Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer, The Great Levy, Relic Thief, Scouts, Rain Boots, Magician's code, Salt the Earth.
 
 **TTS Chronicle**
 ```
-030303000413The First Chronicle2B0A0201234508C601FF06FFFFE20C16D0DC25FFFFFF2BFFFFFF01FFFFFF1BFFFFFF28FFFFFF3928D28704A40AD41458243D77B8092AD37C2B34D61B3320170E8CD59E2C110532301C0B0C7F10AFC51D2D0D182F31075E8F13671E069C9B1F08122712352E2625210F230300291A191588022212DEDDEBE7EDE0E8E6E5E4ECEADBE9DAE1DFE3080804Fyhn
+030303000513The First Chronicle330001012345133109E428FFFFFF00FFFFE51BFFFFFF1FFFFFFF2AFFFFFF08C7FFFF0CD1DCFF398C0A20D38767C0D5101E77111734B86ED21C7D3004D60ED413058F1B3D167C28C518140BAF010C842C9EA47F08709B332D9C1D322A902B2F241812023522238819001A0F25212E15260329275E0758061F0D11E9EADBE8EBEDE7E2E0DEE6DDE3DFECE1DA0A0104Bock
 ```
 
 ## Krønike
+
+### Anden Æra i Folkets tegn, <br/> Andreas I's herredømme
 
 ### Første Æra i Hengivenhedens tegn, <br/> Kasper I's herredømme
 

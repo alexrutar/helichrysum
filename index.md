@@ -26,7 +26,7 @@ layout: default
 |**Rigskansleren**: <br />Kasper|**El Bastardo**: <br />Alik (Citizen)|
 | | |
 |<img src="assets/images/black-portrait.png"  class="portrait"/>|<img src="assets/images/red-portrait.png" class="portrait"/>|
-|**???**:<br />Alexander (Citizen)| **Den Blodige Greve**: <br />Andreas (Exile) |
+|**Loyalisten**:<br />Alexander (Citizen)| **Den Blodige Greve**: <br />Andreas (Exile) |
 
 <!--
 <img src="assets/images/yellow-portrait.png" class="portrait"/>

@@ -38,36 +38,24 @@ layout: default
 ### The World
 
 **Sites in play:** 
-- Buried Giant (Welcoming Party, Martial Culture)
-- Mine
-- Lush Coast (Bandit Rampart)
-- Narrow Pass (Broken Forge)
+- Buried Giant (Welcoming Party, Key to the City)
+- Ancient City (Great Forest Paths)
+- Mine (Errand Boy)
+- Mountain
+- Great Slum
+- Narrow Pass (Ancient Forge)
+- Lush Coast (Bandit Rampart, Secret Police)
 
 **World Deck:** 
 
 |Suit|Number|
 |---|---|
 |6 Discord| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-discord.png" ></span>|
-|5 Arcane| <span class="counter" data-count="5" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|11 Order| <span class="counter" data-count="11" data-imgsrc="assets/images/suit-order.png" ></span>|
-|12 Hearth| <span class="counter" data-count="12" data-imgsrc="assets/images/suit-hearth.png" ></span>|
-|10 Beast| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|10 Nomad| <span class="counter" data-count="10" data-imgsrc="assets/images/suit-nomad.png" ></span>|
-
-<!--
-
-Total:
--3 discord
--4 arcane
-+2 order
-+3 hearth
-+1 beast
-+1 nomad
-
--->
-
-**Dispossessed:** 
-Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer, Relic Thief, Scouts, Rain Boots, Magician's code, Salt the Earth.
+|6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|7 Order| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-order.png" ></span>|
+|9 Hearth| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|7 Beast| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-beast.png" ></span>|
+|13 Nomad| <span class="counter" data-count="13" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
 **TTS Chronicle**
 ```

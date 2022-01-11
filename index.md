@@ -7,11 +7,11 @@ layout: default
 
 **Current oath:**
 
-<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
+<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
 
 <!-- Oath storage:
 
-<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>
+<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>
 
 <img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>
 
@@ -23,7 +23,7 @@ layout: default
 
 |<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/blue-portrait.png"  class="portrait"/>|
 |---|---|
-|**Rigskansleren**: <br />Andreas|**El Bastardo**: <br />Alik (Exile)|
+|**Rigskansleren**: <br />Andreas|**El Bastardo**: <br />Alik (Citizen)|
 | | |
 |<img src="assets/images/black-portrait.png"  class="portrait"/>|<img src="assets/images/yellow-portrait.png" class="portrait"/>|
 |**Loyalisten**:<br />Alexander (Exile)| **Vox Populi**: <br /> Kasper (Exile) |
@@ -67,14 +67,16 @@ Total:
 -->
 
 **Dispossessed:** 
-Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer, The Great Levy, Relic Thief, Scouts, Rain Boots, Magician's code, Salt the Earth.
+Animal Playmates, The Old Oak, Longbows, Wolves, Book Burning, Wayside Inn, Wizard School, Inquisitor, Second Wind, The Gathering, Wrestlers, Elders, The Great Levy, Acting Troupe, Dazzle, Tavern Songs, Bear Traps, Scryer, Relic Thief, Scouts, Rain Boots, Magician's code, Salt the Earth.
 
 **TTS Chronicle**
 ```
-030303000513The First Chronicle330001012345133109E428FFFFFF00FFFFE51BFFFFFF1FFFFFFF2AFFFFFF08C7FFFF0CD1DCFF398C0A20D38767C0D5101E77111734B86ED21C7D3004D60ED413058F1B3D167C28C518140BAF010C842C9EA47F08709B332D9C1D322A902B2F241812023522238819001A0F25212E15260329275E0758061F0D11E9EADBE8EBEDE7E2E0DEE6DDE3DFECE1DA0A0104Bock
+Chronicle3A0200012345133111E910CE2AE3000AE5FF07FFFFDD12FFFFFF0CD0DCFF23FFFFFF08C770FF36847714AF870828D4D66E047C8FD2D3059B09AAD5248CC00C1C335D32302BA4181E590B0E131D3D2D9C379DC517AB2C349E011B167F201E252758121F290D0F350015075E220203061A212319882E267D2F901067B80FEBDFE8EDE7E1DBECE2EAE6DEE0DAE4002004Bock
 ```
 
 ## Krønike
+
+### Anden Æra i Overmagtens tegn, <br/> Andreas II's herredømme
 
 ### Anden Æra i Folkets tegn, <br/> Andreas I's herredømme
 

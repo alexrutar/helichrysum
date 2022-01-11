@@ -88,6 +88,19 @@ En budbringer træder ind i teltet: "Min herre! Hovedstaden er faldet til Bastar
 
 "Nuvel. Måske er det bedst, at magt er noget, der viger efter en stund, for at en ny orden kan komme til. Ikke fordi den nye orden er bedre, men fordi forandring tænder gnister af håb for fremtiden." Kansleren hiver den lilla kåbe af sig og rækker den til budbringerne. "I må hellere tage denne sydpå til Den Sovende Kæmpe." De besvarer ham med måbende og forvirrede blikke, idet de kigger frem og tilbage mellem den lille kåbe og de lasede gule klæder, kansleren har båret under kåben i alle disse år. "Jeg skal tænke lidt. Jeg må rejse rundt og lytte nærmere til folkets stemme igen. Jeg tror, jeg har glemt, hvordan den lyder."
 
+---
+
+Det var i de dage hvor det værste oprør var ved at stilne af, og den Kyklopiske Kronprins havde sluttet fred. Vox Populis kult var blevet drevet i eksil sammen med Loyalistens partisaner, og deres mægtige fæstning på Den Frodige Kyst var blevet raseret. Baronen havde ophævet sig selv til sin historiske titel som Hertug af Den Begravede Kæmpe samt Rigskansler, og afholdte en triumf som afslutning på krigen. Her holdt Hertugen en tale:
+
+”Oprøret er ovre. Hvad nu? Mange af jer vil nok allerhelst vende tilbage til dagligdagens trygge trummerum – jeg forstår det godt selv. Den sikre rutine, den rolige repetition. Vi nyder den alle. Men hvis I har bare en snert af mod og styrke tilbage, så lad os tale om et nyt rige. Et bedre rige.
+
+I det gamle rige var der visse magter der ikke ville lade os tale. Hvorfor? Fordi at selvom sværdet kan bruges som erstatning for samtale, vil ord altid bevare deres magt. Ord bærer mening, og mening kommer af sandhed. Og sandheden er, at det gamle rige var råddent. Ondskab og uretfærdighed, intolerance og undertrykkelse. Hvor vi før kunne tale om fremtiden, nye idéer, og sige de ældgamle ord der vækker vores forfædres ånder, blev ånderne i stedet uddrevet, og håb og idéer blev ofret for ensartethed og underkastelse.
+
+Jeg forstår hvorfor I tillod det. Hvem ville ikke ofre en smule frihed for at bringe stabilitet til riget? Men folkets vilje fornægter sig ikke. Det sande folk i dette rige, dem der i sandhed vil rigets bedste, hviskede sandheden i landets afkroge. Jeg hørte den sagte hvisken. Jeg ophævede den til et råb. I spidsen for det sande folk omstyrtede jeg det korrupte rige. Mit hjerte tilhører folket, og gennem mig bliver folkets vilje til virkelighed.
+
+Jeg sværger denne ed: Kun jeg forstår folkets vilje, og i dag skaber jeg et nyt rige hvor folkets vilje vil ske. Sammen vil vi gøre vores forfædre stolte. Lad den Anden Æra i Folkets Tegn begynde.”
+
+
 ### Første Æra i Bevarelsens tegn, <br/> Alexander III's herredømme
 
 Il Duce holder den magiske ring foran sit ansigt. "Hævnens time er kommet. Rigskanslerens hær vil blive udraderet, og en ny æra begynde" mumler han for sig selv, idet hans øverste rådgiver, iklædt en tung kutte dækket i trolddomsruner, træder ind ad døren. "Dårligt nyt, Herre. Kansleren har genoprettet forsyningslinjerne til hovedstaden, og selv med en overvældende sejr vil få eller ingen af hans soldater blive gjort ukampdygte." Il Duce's øjne spiles op i raseri. "HVAD!? Umuligt! Det er nu eller aldrig, det ved du bedst af alle!". Rådgiveren betragter ham køligt under hætten, men siger ikke et ord. Il Duce ved hvad plan B er. En hæslig forbandelse over det gamle hjemland, som hævn over generationers eksil. En forbandelse der i ét glimt kan udslukke al hjemligt lys, nedbryde al orden. Så han, Il Duce, kan bygge det op igen. En dag.

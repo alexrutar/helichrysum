@@ -1,3 +1,4 @@
+// Automatically visualize the suit distribution with a bar plot
 var class_tags = document.getElementsByClassName('counter');
 for (j=0;j<class_tags.length;j++){
   var script_tag = class_tags[j];
@@ -11,6 +12,7 @@ for (j=0;j<class_tags.length;j++){
   script_tag.innerHTML += '</p>';
 }
 
+// Insert a random suit quote in the footer
 (function() {
   var quotes = [
     {
@@ -39,6 +41,7 @@ for (j=0;j<class_tags.length;j++){
     }
   ];
   var quote = quotes[Math.floor(Math.random() * quotes.length)];
+  // Get the Quote element from the footer and insert the HTML
   document.getElementById("quote").innerHTML =
     '<p>' + 
     '<img src="' + quote.img + '"; style="height:1em;"/>'+

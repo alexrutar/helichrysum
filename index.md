@@ -65,8 +65,10 @@ layout: default
 ## Krønike
 
 ### Anden Æra i Overmagtens tegn, <br/> Andreas II's herredømme
+Skyerne trækker sig sammen over landet. En ny æra begynder...
 
 ### Anden Æra i Folkets tegn, <br/> Andreas I's herredømme
+Støvet lægger sig, et fuglefløjt lyder i det fjerne. En æra er forbi.
 
 ### Første Æra i Hengivenhedens tegn, <br/> Kasper I's herredømme
 

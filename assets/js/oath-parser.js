@@ -19,7 +19,7 @@ const offset = worldDeckSize + dispossessedDeckSize + relicDeckSize
 //const curSiteSaveIDs =
 
 // --------------- Assign to object
-const save = {
+export const save = {
   // ---------------- Base
   majorVersion: hexParser(0),
   minorVersion: hexParser(1),
@@ -49,7 +49,7 @@ const save = {
   prevWinName: strParser(53+offset)
 }
 
-console.log(save)
+export worldSuitArray, dispSuitArray
 
 // --------------- Functions
 

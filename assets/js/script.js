@@ -1,3 +1,8 @@
+import {save, worldSuitArray, dispSuitArray} from './oathParser'
+
+// Automatically insert a few things into the webpage
+document.getElementById("name").innerHTML = save.name;
+
 // Automatically visualize the suit distribution with a bar plot
 var class_tags = document.getElementsByClassName('counter');
 for (j=0;j<class_tags.length;j++){

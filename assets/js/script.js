@@ -6,9 +6,8 @@ document.getElementById("name").innerHTML = save.name;
 // Automatically visualize the suit distribution with a bar plot
 var class_tags = document.getElementsByClassName('counter');
 for (j=0;j<class_tags.length;j++){
-  var script_tag = class_tags[j];
-  var count = script_tag.getAttribute("data-count");
-  var imgsrc = script_tag.getAttribute("data-imgsrc");
+  var imgsrc = class_tags[j].getAttribute("data-imgsrc");
+  const count = worldSuitArray[j];
 
   script_tag.innerHTML += '<p>';
   for (var i = 1; i <= count; i++) {

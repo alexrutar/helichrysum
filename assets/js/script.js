@@ -2,7 +2,6 @@ import {savestring, save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 
 // Automatically insert a few things into the webpage
 document.getElementById("name").innerHTML = save.name;
-document.getElementById("savestring").innerHTML = savestring;
 insertSiteName("site1",save.site1);
 insertSiteName("site2",save.site2);
 insertSiteName("site3",save.site3);
@@ -12,11 +11,26 @@ insertSiteName("site6",save.site6);
 insertSiteName("site7",save.site7);
 insertSiteName("site8",save.site8);
 
-// Automatically visualize the suit distribution with a bar plot
+// Insert current oath
+switch(save.oath){
+    case "Supremacy":
+        document.getElementById("oath").innerHTML = '<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>"';
+        break;
+    case "People":
+        document.getElementById("oath").innerHTML = '<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>';
+        break;
+    case "Devotion":
+        document.getElementById("oath").innerHTML = '<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>';
+        break;
+    case "Protection":
+        document.getElementById("oath").innerHTML = '<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>';
+}
+
+// Insert suit numbers
 var number_tags = document.getElementsByClassName('number');
 for (var j=0;j<number_tags.length;j++){
 var script_tag = number_tags[j]
-  const count = worldSuitArray[j];
+    const count = worldSuitArray[j];
 
     script_tag.innerHTML += count;
 }

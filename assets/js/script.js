@@ -1,7 +1,8 @@
-import {save, worldSuitArray, dispSuitArray} from './oath-parser.js'
+import {savestring, save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 
 // Automatically insert a few things into the webpage
 document.getElementById("name").innerHTML = save.name;
+document.getElementById("savestring").innerHTML = savestring;
 insertSiteName("site1",save.site1);
 insertSiteName("site2",save.site2);
 insertSiteName("site3",save.site3);

@@ -40,28 +40,29 @@ layout: default
 **Sites in play:**
 
 _Cradle_
-- Buried Giant (Welcoming Party, Key to the City)
-- Ancient City (Great Forest Paths)
+<span id="site1" />
+<span id="site2" />
 
 _Provinces_
-- Mine (Errand Boy)
-- Mountain
-- Great Slum
+<span id="site3" />
+<span id="site4" />
+<span id="site5" />
 
 _Hinterlands_
-- Narrow Pass (Ancient Forge)
-- Lush Coast (Bandit Rampart, Secret Police)
+<span id="site6" />
+<span id="site7" />
+<span id="site8" />
 
 **World Deck:** 
 
 |Suit|Number|
 |---|---|
-|6 Discord| <span class="counter" data-imgsrc="assets/images/suit-discord.png" ></span>|
-|6 Arcane| <span class="counter" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|7 Order| <span class="counter" data-imgsrc="assets/images/suit-order.png" ></span>|
-|9 Hearth| <span class="counter" data-imgsrc="assets/images/suit-hearth.png" ></span>|
-|7 Beast| <span class="counter" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|13 Nomad| <span class="counter" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|<span class="number"/> Discord| <span class="counter" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|<span class="number"/> Hearth| <span class="counter" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|<span class="number"/> Nomad| <span class="counter" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|<span class="number"/> Arcane| <span class="counter" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|<span class="number"/> Order| <span class="counter" data-imgsrc="assets/images/suit-order.png" ></span>|
+|<span class="number"/> Beast| <span class="counter" data-imgsrc="assets/images/suit-beast.png" ></span>|
 
 **TTS Chronicle:**
 ```

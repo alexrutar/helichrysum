@@ -5,7 +5,7 @@ document.getElementById("name").innerHTML = save.name;
 
 // Automatically visualize the suit distribution with a bar plot
 var class_tags = document.getElementsByClassName('counter');
-for (j=0;j<class_tags.length;j++){
+for (var j=0;j<class_tags.length;j++){
   var imgsrc = class_tags[j].getAttribute("data-imgsrc");
   const count = worldSuitArray[j];
 

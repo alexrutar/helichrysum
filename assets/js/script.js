@@ -4,11 +4,20 @@ import {save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 document.getElementById("name").innerHTML = save.name;
 
 // Automatically visualize the suit distribution with a bar plot
-var class_tags = document.getElementsByClassName('counter');
-for (var j=0;j<class_tags.length;j++){
-  var script_tag = class_tags[j];
-  var count = script_tag.getAttribute("data-count");
+var number_tags = document.getElementsByClassName('number');
+for (var j=0;j<number_tags.length;j++){
+var script_tag = number_tags[j]
+  const count = worldSuitArray[j];
+
+    script_tag.innerHTML += count;
+}
+
+// Automatically visualize the suit distribution with a bar plot
+var counter_tags = document.getElementsByClassName('counter');
+for (var j=0;j<counter_tags.length;j++){
+var script_tag = counter_tags[j]
   var imgsrc = script_tag.getAttribute("data-imgsrc");
+  const count = worldSuitArray[j];
 
   script_tag.innerHTML += '<p>';
   for (var i = 1; i <= count; i++) {

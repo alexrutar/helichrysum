@@ -5,7 +5,7 @@ document.getElementById("name").innerHTML = save.name;
 
 // Automatically visualize the suit distribution with a bar plot
 var class_tags = document.getElementsByClassName('counter');
-for (j=0;j<class_tags.length;j++){
+for (var j=0;j<class_tags.length;j++){
   var script_tag = class_tags[j];
   var count = script_tag.getAttribute("data-count");
   var imgsrc = script_tag.getAttribute("data-imgsrc");

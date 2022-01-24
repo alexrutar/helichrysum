@@ -81,8 +81,11 @@ function parseSuitDeck(n,array,size){
 function parseSite(n){
   const site = {
     name: SiteNameIndexes[hexParser(n)],
+    index1: hexParser(n+1),
     card1: CardNameIndexes[hexParser(n+1)],
+    index2:hexParser(n+2),
     card2: CardNameIndexes[hexParser(n+2)],
+    index3: hexParser(n+3),
     card3: CardNameIndexes[hexParser(n+3)]
   }
   return site

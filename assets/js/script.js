@@ -2,6 +2,14 @@ import {save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 
 // Automatically insert a few things into the webpage
 document.getElementById("name").innerHTML = save.name;
+insertSiteName("site1",save.site1);
+insertSiteName("site2",save.site2);
+insertSiteName("site3",save.site3);
+insertSiteName("site4",save.site4);
+insertSiteName("site5",save.site5);
+insertSiteName("site6",save.site6);
+insertSiteName("site7",save.site7);
+insertSiteName("site8",save.site8);
 
 // Automatically visualize the suit distribution with a bar plot
 var number_tags = document.getElementsByClassName('number');
@@ -63,3 +71,16 @@ var script_tag = counter_tags[j]
     '<img src="' + quote.img + '"; style="height:1em;"/>' + 
     '</p>';
 })();
+
+function insertSiteName(id,site){
+if (site.name != undefined){
+	var string = '</br>- ' + site.name;
+	if (site.index1 < 210){
+		string += ': '+ site.card1;}
+	if (site.index2 < 210){
+		string += ', '+ site.card2;}
+	if (site.index3 < 210){
+		string += ', '+ site.card3;}
+	document.getElementById(id).innerHTML = string
+	}
+}

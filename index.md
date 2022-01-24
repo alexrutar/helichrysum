@@ -56,12 +56,12 @@ _Hinterlands_
 
 |Suit|Number|
 |---|---|
-|6 Discord| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-discord.png" ></span>|
-|6 Arcane| <span class="counter" data-count="6" data-imgsrc="assets/images/suit-arcane.png" ></span>|
-|7 Order| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-order.png" ></span>|
-|9 Hearth| <span class="counter" data-count="9" data-imgsrc="assets/images/suit-hearth.png" ></span>|
-|7 Beast| <span class="counter" data-count="7" data-imgsrc="assets/images/suit-beast.png" ></span>|
-|13 Nomad| <span class="counter" data-count="13" data-imgsrc="assets/images/suit-nomad.png" ></span>|
+|6 Discord| <span class="counter" data-imgsrc="assets/images/suit-discord.png" ></span>|
+|6 Arcane| <span class="counter" data-imgsrc="assets/images/suit-arcane.png" ></span>|
+|7 Order| <span class="counter" data-imgsrc="assets/images/suit-order.png" ></span>|
+|9 Hearth| <span class="counter" data-imgsrc="assets/images/suit-hearth.png" ></span>|
+|7 Beast| <span class="counter" data-imgsrc="assets/images/suit-beast.png" ></span>|
+|13 Nomad| <span class="counter" data-imgsrc="assets/images/suit-nomad.png" ></span>|
 
 **TTS Chronicle:**
 ```

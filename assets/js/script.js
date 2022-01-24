@@ -14,16 +14,16 @@ insertSiteName("site8",save.site8);
 // Insert current oath
 switch(save.oath){
     case "Supremacy":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>upremacy</span>"';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>upremacy</span>';
         break;
     case "People":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>';
         break;
     case "Devotion":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">D</span>evotion</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">D</span>evotion</span>';
         break;
     case "Protection":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath _of_ <span class="goudy-capital">S</span>anctuary</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>anctuary</span>';
 }
 
 // Insert suit numbers

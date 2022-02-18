@@ -54,8 +54,8 @@ _Hinterlands_
 
 ## Chronicle
 
-### First Era of Supremacy, <br/> Viktor I's reign
-Clouds gather, a storm is brewing. A new era begins...
+### First Era of Supremacy, <br/> reign of Viktor I
+Clouds gather, leaves rustle in the wind. A new era begins...
 
 ### Introduktion
 

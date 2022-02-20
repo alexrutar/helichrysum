@@ -11,9 +11,9 @@ layout: default
 
 ### Dramatis Personæ
 
-|<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/red-portrait.png"  class="portrait"/>|
+|<img src="assets/images/chancellor-portrait.jpg" class="portrait"/>|<img src="assets/images/black-portrait.png"  class="portrait"/>|
 |---|---|
-|**Chancellor**: <br />Viktor|**Red**: <br />Alex (Exile)|
+|**Chancellor**: <br />Alex|**black**: <br />Viktor (Exile)|
 | | |
 |<img src="assets/images/blue-portrait.png"  class="portrait"/>|<img src="assets/images/yellow-portrait.png" class="portrait"/>|
 |**Blue**:<br />Kristín (Exile)| **Yellow**: <br /> Andreas (Exile) |

@@ -118,22 +118,6 @@ div.shell {
   margin: 0 auto;
 }
 
-a#forkme_banner {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 138px;
-  height: 138px;
-  display: block;
-  background: transparent url(../images/fork-sprite.png) 0 0 no-repeat;
-  text-indent: -9000px;
-  z-index: 3;
-}
-
-a#forkme_banner:hover {
-  background-position: 0 -138px;
-}
-
 /* header */
 
 header {
@@ -184,6 +168,9 @@ header h1 {
   text-align: center;
   line-height:1;
   padding: 14px 20px 0;
+  & img {
+    height: 2em;
+  }
 }
 
 header h2 {
@@ -213,49 +200,6 @@ div#no-downloads span.inner {
   height: 197px;
   width: 550px;
   background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-}
-
-section#downloads a {
-  display: block;
-  position: relative;
-  height: 67px;
-  width: 275px;
-  padding-top: 130px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
-  text-align: center;
-  line-height: 1;
-  color: #fff;
-  font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-  font-weight: 800;
-  font-size: 1.3em;
-}
-
-section#downloads a:hover {
-  text-decoration: none;
-}
-
-section#downloads a em {
-  font: bold italic 12px/1 Georgia, Times, “Times New Roman”, serif;
-  color: #83b7da;
-  display: block;
-}
-
-section#downloads a.zip {
-  float: left;
-  background-position: 0 0;
-}
-
-section#downloads a.tgz {
-  float: right;
-  background-position: -275px 0;
-}
-
-section#downloads a.zip:hover {
-  background-position: 0 -197px;
-}
-
-section#downloads a.tgz:hover {
-  background-position: -275px -197px;
 }
 
 span.banner-fix {
@@ -351,14 +295,6 @@ footer span.left-tail {
 footer span.right-tail {
   background-position: -18px 0;
   right: -11px;
-}
-
-footer span.octocat {
-  background: transparent url(../images/octocat.png) 0 0 no-repeat;
-  display: block;
-  width: 30px;
-  height: 30px;
-  margin: 0 auto;
 }
 
 /* content */

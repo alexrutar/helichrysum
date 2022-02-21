@@ -416,16 +416,18 @@ section#main_content {
   min-height: 185px;
 
 
+  & h2, & h3 {
+    font-family: 'goudy_header';
+    font-weight: bold;
+    padding-bottom: 10px;
+  }
   & h2 {
     font-size: 3em;
     border-bottom: .2em double #d3ccc1;
     color: #7c334f;
     text-align: center;
-    font-style: normal;
     margin: 1.1em 0 .38em;
     line-height: 1.2;
-    padding-bottom: 10px;
-    font-family: 'goudy_header'
   }
 
   & h3 {
@@ -434,8 +436,6 @@ section#main_content {
     margin: .95em 0 .5em;
     border-bottom: .1em solid #D3CCC1;
     line-height: 1.2;
-    padding-bottom: 10px;
-    font-family: 'goudy_header'
   }
 
   & h4 {
@@ -457,7 +457,6 @@ section#main_content {
       margin-top: 0;
     }
   }
-
 }
 
 .color-box {
@@ -492,7 +491,6 @@ section#main_content {
     font-family: 'goudy_header'
   }
 }
-
 
 .counter img {
   width: 1em;

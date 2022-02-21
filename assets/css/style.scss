@@ -483,8 +483,23 @@ section#main_content {
   justify-content: center;
 }
 
-.goudy-capital {
-  font-family: 'goudy_header'
+#oath {
+  font-size: 40px;
+  & img {
+    height: 40px;
+  }
+  & .goudy-capital {
+    font-family: 'goudy_header'
+  }
+}
+
+
+.counter img {
+  width: 1em;
+}
+
+#quote img {
+  height: 1em;
 }
 
 body {

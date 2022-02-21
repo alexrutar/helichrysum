@@ -14,16 +14,17 @@ insertSiteName("site8",save.site8);
 // Insert current oath
 switch(save.oath){
     case "Supremacy":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/supremacy.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>upremacy</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/supremacy.png"/> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>upremacy';
         break;
     case "People":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/people.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/people.png"/> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople';
         break;
     case "Devotion":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/devotion.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">D</span>evotion</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/devotion.png"/> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">D</span>evotion';
         break;
     case "Protection":
-        document.getElementById("oath").innerHTML = '<img src="assets/images/protection.png" style="height:40px;" /> <span style="font-size: 40px;"> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>anctuary</span>';
+        document.getElementById("oath").innerHTML = '<img src="assets/images/protection.png"/> <span class="goudy-capital">O</span>ath <em>of</em> <span class="goudy-capital">S</span>anctuary';
+        break;
 }
 
 // Insert suit numbers
@@ -44,7 +45,7 @@ var script_tag = counter_tags[j]
 
   script_tag.innerHTML += '<p>';
   for (var i = 1; i <= count; i++) {
-    script_tag.innerHTML += '<img src="' + imgsrc + '"; style="width:1em;"/>';
+    script_tag.innerHTML += '<img src="' + imgsrc + '";/>';
   }
   script_tag.innerHTML += '</p>';
 }
@@ -81,9 +82,9 @@ var script_tag = counter_tags[j]
   // Get the Quote element from the footer and insert the HTML
   document.getElementById("quote").innerHTML =
     '<p>' + 
-    '<img src="' + quote.img + '"; style="height:1em;"/>'+
+    '<img src="' + quote.img + '";/>'+
     quote.text +
-    '<img src="' + quote.img + '"; style="height:1em;"/>' + 
+    '<img src="' + quote.img + '";/>' + 
     '</p>';
 })();
 

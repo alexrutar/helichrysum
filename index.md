@@ -9,7 +9,7 @@ layout: default
 
 ### Dramatis Personæ
 
-| <img src="assets/character_art/portrait_chancellor.jpg" class="portrait"/> | <img src="assets/character_art/portrait_black.png"  class="portrait"/> |
+| <img src="assets/character_art/portrait_chancellor.png" class="portrait"/> | <img src="assets/character_art/portrait_black.png"  class="portrait"/> |
 | **Chancellor**:<br/>Alex                                                   | **House Black**:<br/>Viktor (Exile)                                    |
 | <img src="assets/character_art/portrait_blue.png"  class="portrait"/>      | <img src="assets/character_art/portrait_yellow.png" class="portrait"/> |
 | **House Blue**:<br/>Kristín (Exile)                                        | **House of Dawn**:<br/> Andreas (Exile)                                |

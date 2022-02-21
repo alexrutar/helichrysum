@@ -54,10 +54,10 @@ _Hinterlands_
 
 ## Chronicle
 
-### First Era of The People, <br/> reign of Alex I
+### First Era of The People, <br/> Reign of Alex I
 Clouds gather, leaves rustle in the wind. A new era begins...
 
-### First Era of Supremacy, <br/> reign of Viktor I
+### First Era of Supremacy, <br/> Reign of Viktor I
 Clouds gather, leaves rustle in the wind. A new era begins...
 
 ### Introduktion

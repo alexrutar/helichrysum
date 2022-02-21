@@ -59,7 +59,25 @@ Clouds gather, leaves rustle in the wind. A new era begins...
 
 
 ### First Era of Supremacy, <br/> Reign of Viktor I
-Clouds gather, leaves rustle in the wind. A new era begins...
+A new era begins: it is a time of turmoil and conflict.
+Chancellor Viktor I is secure in his stronghold and has amassed a strong army.
+Working with the land's greatest alchemist, Exile Alex of the Red House amasses a large fortune.
+Meanwhile, Exile Kristín of the Blue House uncovers the secrets of the land and recovers forgotten relics.
+But Exile Andrews of the Yellow House has other plans: he makes a deal with the devil and with a bold strike, seizes control from the Chancellor!
+Seeing the strength of the opposition, Chancellor Viktor I makes a pact with Exile Alex: in exchange for favor and devotion, he passes along administrative control over the empire.
+
+The Red Exile becomes a citizen and campaigns on behalf of the empire.
+In reply, the Exiles band together to overthrow the oppressive control of the empire.
+Battle lines are drawn and the land is trapped in the cycles of warfare.
+Power is passed back and forth, and destruction is spread across the land: soldiers and denizens are killed alike by warfare and long-forgotten terrors.
+
+The power of the empire is too great: a favorable economy combined with the vast supply of the empire is too much for the Exiles to resist.
+In the final stages of the war, the combined efforts of Chancellor Victor and Citizen Alex destroy the occupying forces and victory for the empire is certain.
+But in a final act of betrayal, Citizen Alex seizes hold of the empire's armies and captures the favor of the people.
+With consolidated military strength and popular support, he gains control of the empire!
+But in the chaos, Exile Andreas of the Yellow House destroys the final stronghold of the empire.
+The empire has been toppled and the land is cast into disarray.
+The fate of the land now lies in the desires of the people...
 
 ### Introduction
 

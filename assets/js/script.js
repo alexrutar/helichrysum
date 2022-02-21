@@ -1,5 +1,16 @@
 import {savestring, save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 
+// set the background image
+console.log(save.prevWinColor)
+if (save.prevWinColor == "purple") {
+    var img_name = "full_chancellor.png";
+} else {
+    // TODO: when the citizen assets are added, use them here too
+    var img_name = "full_exile_" + save.prevWinColor + ".png"
+}
+console.log(img_name)
+document.body.style.backgroundImage = "url(assets/character_art/" + img_name;
+
 // Automatically insert a few things into the webpage
 document.getElementById("name").innerHTML = save.name;
 insertSiteName("site1",save.site1);

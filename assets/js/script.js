@@ -6,8 +6,12 @@ if (window.innerWidth >= 1200) {
     if (save.prevWinColor == "purple") {
         var img_name = "full_chancellor.png";
     } else {
-        // TODO: when the citizen assets are added, use them here too
+      // TODO: add all citizen character arts and remove if statement
+      if (save.prevWinColor == "red") {
+        var img_name = "full_" + save.exileCitizenStatus[save.prevWinColor] + "_" + save.prevWinColor + ".png"
+      } else {
         var img_name = "full_exile_" + save.prevWinColor + ".png"
+      }
     }
     document.body.style.backgroundImage = "url(assets/character_art/" + img_name;
 }
@@ -94,10 +98,10 @@ var script_tag = counter_tags[j]
   var quote = quotes[Math.floor(Math.random() * quotes.length)];
   // Get the Quote element from the footer and insert the HTML
   document.getElementById("quote").innerHTML =
-    '<p>' + 
+    '<p>' +
     '<img src="' + quote.img + '";/>'+
     quote.text +
-    '<img src="' + quote.img + '";/>' + 
+    '<img src="' + quote.img + '";/>' +
     '</p>';
 })();
 

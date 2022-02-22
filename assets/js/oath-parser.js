@@ -28,7 +28,7 @@ const save = {
   nameLength: hexParser(4),
   name: strParser(5),
   prevActiveStatus: hexParser(6),
-  exileCitizenStatus: hexParser(7),
+  exileCitizenStatus: citizenParser(7),
   oath: other.oathArray[hexParser(8)],
   // Skip suit order (???), 9-15.
   // ---------------- Map
@@ -49,7 +49,7 @@ const save = {
   prevWinName: strParser(53+offset)
 }
 
-//console.log(save)
+//console.log(save) // Beware of spoilers when printing to console!
 
 export {save, worldSuitArray, dispSuitArray}
 
@@ -124,6 +124,20 @@ function addCardsFormat(deckSize){
   for (let i = 0; i < deckSize; i++){
     format.push(2);
   }
+}
+
+function citizenParser(n){
+  var m = getPos(n)
+  const byte = parseInt(savestring.substr(m,format[n]))
+  // Order of colors in byte: [] [] [] [Black] [Yellow] [White] [Blue] [Red]
+  const citizenStatus = {
+    red: byte & 1 ? "citizen" : "exile", // Bitwise magic and ternary operators!
+    blue: byte & 2 ? "citizen" : "exile",
+    white: byte & 4 ? "citizen" : "exile",
+    yellow: byte & 8 ? "citizen" : "exile",
+    black: byte & 16 ? "citizen" : "exile"
+  }
+  return citizenStatus
 }
 
 function strParser(n){

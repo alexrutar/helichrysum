@@ -1,17 +1,11 @@
 import {savestring, save, worldSuitArray, dispSuitArray} from './oath-parser.js'
 
-// set the background image
+// set background image based on previous winner
 if (window.innerWidth >= 1200) {
-    // set the background image
     if (save.prevWinColor == "purple") {
         var img_name = "full_chancellor.png";
     } else {
-      // TODO: add all citizen character arts and remove if statement
-      if (save.prevWinColor == "red") {
         var img_name = "full_" + save.exileCitizenStatus[save.prevWinColor] + "_" + save.prevWinColor + ".png"
-      } else {
-        var img_name = "full_exile_" + save.prevWinColor + ".png"
-      }
     }
     document.body.style.backgroundImage = "url(assets/character_art/" + img_name;
 }

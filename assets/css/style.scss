@@ -274,20 +274,17 @@ em {
   font-style: italic;
 }
 
-ol {
+ol, ul{
   margin: .7em 0;
-  list-style-type: decimal;
   padding-left: 1.35em;
+}
+
+ol {
+  list-style-type: decimal;
 }
 
 ul {
-  margin: .7em 0;
-  padding-left: 1.35em;
-}
-
-ul li {
-  padding-left: 10px;
-  background: transparent url(../images/chevron.png) left 6px no-repeat;
+  list-style-type: square;
 }
 
 blockquote {

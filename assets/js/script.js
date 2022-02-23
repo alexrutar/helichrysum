@@ -1,4 +1,4 @@
-import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath_parser.js'
+import {savestring, save, suits, regions, worldSuitDict, dispSuitDict} from './oath_parser.js'
 
 // general utilities
 function suitImagePath(suit) {
@@ -31,21 +31,36 @@ document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oa
 
 
 // insert site names
-function insertSiteName(id, site){
-    if (site.name != undefined){
-        var string = site.name;
-        if (site.index1 < 210){
-            string += ': '+ site.card1;}
-        if (site.index2 < 210){
-            string += ', '+ site.card2;}
-        if (site.index3 < 210){
-            string += ', '+ site.card3;}
-        document.getElementById(id).innerHTML = string
+function createSite(site) {
+    // create the site <li> ... </li> element
+    const siteLI = document.createElement("li")
+    var siteStr = site.name;
+    if (site.index1 < 210) {
+        siteStr += ': ' + site.card1;
     }
+    if (site.index2 < 210) {
+        siteStr += ', ' + site.card2;
+    }
+    if (site.index3 < 210) {
+        siteStr += ', ' + site.card3;
+    }
+    siteLI.innerHTML = siteStr
+    return siteLI
 }
-for (let i=1; i<9; i++) {
-    insertSiteName("site" + i, save.sites[i-1]);
+function insertSiteList(region, siteList) {
+    // insert a header and a list of sites into the element with id "sites"
+    const siteUL = document.createElement("ul")
+    siteList.forEach(
+        site => (site.name) ? siteUL.appendChild(createSite(site)) : null
+    )
+    const siteLabel = document.createElement("em")
+    siteLabel.innerText = capitalize(region)
+    document.getElementById("sites").appendChild(siteLabel)
+    document.getElementById("sites").appendChild(siteUL)
 }
+regions.forEach(
+    region => insertSiteList(region, save.sites[region])
+)
 
 
 // visualize the suit distribution with a bar plot

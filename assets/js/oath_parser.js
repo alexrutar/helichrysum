@@ -6,6 +6,7 @@ import * as other from './other.js'
 let worldDeckSize, dispossessedDeckSize, relicDeckSize;
 const format = []
 const suits = ['discord', 'arcane', 'order', 'hearth', 'beast', 'nomad']
+const regions = ['cradle', 'provinces', 'hinterland']
 const worldSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 const dispSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 
@@ -30,7 +31,11 @@ const save = {
     oath: other.oathArray[hexParser(8)],
     // Skip suit order (???), 9-15.
     // ---------------- Map
-    sites: [parseSite(15), parseSite(19), parseSite(23), parseSite(27), parseSite(31), parseSite(35), parseSite(39), parseSite(43)],
+    sites: {
+        "cradle": [parseSite(15), parseSite(19)],
+        "provinces": [parseSite(23), parseSite(27), parseSite(31)],
+        "hinterland": [parseSite(35), parseSite(39), parseSite(43)]
+    },
     worldDeck: parseSuitDeck(47, worldSuitDict, worldDeckSize),
     dispDeck: parseSuitDeck(48+worldDeckSize, dispSuitDict, dispossessedDeckSize),
     relicDeck: parseRelicDeck(49+worldDeckSize+dispossessedDeckSize, relicDeckSize),
@@ -40,7 +45,7 @@ const save = {
     prevWinName: strParser(53+offset)
 }
 
-export {save, suits, worldSuitDict, dispSuitDict}
+export {save, suits, regions, worldSuitDict, dispSuitDict}
 
 // --------------- Functions
 

@@ -5,7 +5,7 @@ import * as other from './other.js'
 
 let worldDeckSize, dispossessedDeckSize, relicDeckSize;
 const format = []
-const suits = ['discord', 'hearth', 'nomad', 'arcane', 'order', 'beast']
+const suits = ['discord', 'arcane', 'order', 'hearth', 'beast', 'nomad']
 const worldSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 const dispSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 

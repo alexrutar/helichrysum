@@ -2,8 +2,6 @@
 title: Game State
 layout: default
 ---
-## The Helichrysum Chronicle
-
 ### First Era of The People,<br>Reign of Alex I
 As a new day dawned, the woman left her hovel to gather water at the River.
 While the morning dew slowly evaporated in the sun, rising with the promise of a beautiful day, she spotted a small host of warbands arriving under the Imperial banner, along with many camp followers carrying the unmistakable look of refugees from the War of the Four Houses.

@@ -41,7 +41,6 @@ function insertSiteName(id, site){
         document.getElementById(id).innerHTML = string
     }
 }
-document.getElementById("name").innerHTML = save.name;
 for (let i=1; i<9; i++) {
     insertSiteName("site" + i, save.sites[i-1]);
 }

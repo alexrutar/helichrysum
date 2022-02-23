@@ -1,4 +1,4 @@
-import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath-parser.js'
+import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath_parser.js'
 
 
 // set background image based on previous winner

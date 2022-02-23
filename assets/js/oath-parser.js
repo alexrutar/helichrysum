@@ -4,8 +4,9 @@ import * as other from './other.js'
 
 let worldDeckSize, dispossessedDeckSize, relicDeckSize;
 const format = []
-const worldSuitArray = [0,0,0,0,0,0]
-const dispSuitArray = [0,0,0,0,0,0]
+const suits = ['discord', 'hearth', 'nomad', 'arcane', 'order', 'beast']
+const worldSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
+const dispSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 
 // Input savestring
 export const savestring = '030303000219The Helichrysum Chronicle2B010101234505FFFFFF20FFFFFF14FFFFDE1BFFFFFF29FFFFFF16FFFFE01EFFFFFF1FFFFFFF3B0624182B0E2629D61ED31D15D51309522F201C3521001FD2D42819C30B1632AD0F342233C125089810010D112C121A0507042314270AB717312D30062A1B2E0C030212E9DBDCEAE8E7E4DFDADDEDE2E6ECE3E5E1EB000105ARman'
@@ -33,8 +34,8 @@ const save = {
     // Skip suit order (???), 9-15.
     // ---------------- Map
     sites: [parseSite(15), parseSite(19), parseSite(23), parseSite(27), parseSite(31), parseSite(35), parseSite(39), parseSite(43)],
-    worldDeck: parseSuitDeck(47, worldSuitArray, worldDeckSize),
-    dispDeck: parseSuitDeck(48+worldDeckSize, dispSuitArray, dispossessedDeckSize),
+    worldDeck: parseSuitDeck(47, worldSuitDict, worldDeckSize),
+    dispDeck: parseSuitDeck(48+worldDeckSize, dispSuitDict, dispossessedDeckSize),
     relicDeck: parseRelicDeck(49+worldDeckSize+dispossessedDeckSize, relicDeckSize),
     prevCitizenStatus: hexParser(50+offset),
     prevWinColor: other.winCases[hexParser(51+offset)],
@@ -42,11 +43,11 @@ const save = {
     prevWinName: strParser(53+offset)
 }
 
-export {save, worldSuitArray, dispSuitArray}
+export {save, suits, worldSuitDict, dispSuitDict}
 
 // --------------- Functions
 
-function parseRelicDeck(n,size){
+function parseRelicDeck(n, size){
     // Keep track of suit numbers
     const deck = []
     for (let i = 0; i < size; i++ ){
@@ -56,7 +57,7 @@ function parseRelicDeck(n,size){
     return deck
 }
 
-function parseSuitDeck(n,array,size){
+function parseSuitDeck(n, dict, size){
     // Keep track of suit numbers
     const deck = []
     for (let i = 0; i < size; i++ ){
@@ -64,7 +65,7 @@ function parseSuitDeck(n,array,size){
         deck.push(cardName)
         if ( CardSuits[cardName] != undefined ){
             // Avoid errors from visions
-            array[CardSuits[cardName]] += 1
+            dict[CardSuits[cardName]] += 1
         }
     }
     return deck

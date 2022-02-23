@@ -1,4 +1,4 @@
-import {savestring, save, worldSuitArray, dispSuitArray} from './oath-parser.js'
+import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath-parser.js'
 
 
 // set background image based on previous winner
@@ -46,27 +46,31 @@ const oathFancyName = {
 document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oath + '.png"> <span class="goudy-capital">O</span>ath <em>of</em> ' + oathFancyName[save.oath];
 
 
-// insert suit numbers
-var number_tags = document.getElementsByClassName('number');
-// TODO: this is pretty fragile since it depends on the table order not
-// changing, which feels like a bad idea
-for (var j=0;j<number_tags.length;j++){
-    var script_tag = number_tags[j];
-    const count = worldSuitArray[j];
-    script_tag.innerHTML = count;
-}
-
 // visualize the suit distribution with a bar plot
-var counter_tags = document.getElementsByClassName('counter');
-for (var j=0;j<counter_tags.length;j++){
-    var script_tag = counter_tags[j];
-    var imgsrc = script_tag.getAttribute("data-imgsrc");
-    const count = worldSuitArray[j];
+function createSuitRow(suit, count) {
+    const row = document.createElement("tr");
 
-    for (var i = 1; i <= count; i++) {
-        script_tag.innerHTML += '<img src="' + imgsrc + '">';
+    const suitCol = document.createElement("td");
+    suitCol.innerText = suit.charAt(0).toUpperCase() + suit.slice(1);
+
+    const numberCol = document.createElement("td");
+    numberCol.innerText = count;
+
+    const barVisualizationCol = document.createElement("td");
+    barVisualizationCol.classList.add("counter");
+    for (let i=0; i<count; i++) {
+        const suitImage = document.createElement("img");
+        suitImage.src = "assets/images/suit-" + suit + ".png";
+        barVisualizationCol.appendChild(suitImage);
     }
+
+    row.appendChild(suitCol);
+    row.appendChild(numberCol);
+    row.appendChild(barVisualizationCol);
+    document.getElementById("card-counts").appendChild(row);
 }
+suits.forEach(suit => createSuitRow(suit, worldSuitDict[suit]));
+
 
 // Insert a random suit quote in the footer
 (function() {

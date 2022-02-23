@@ -1,3 +1,4 @@
+import {gameData} from './game_data.js'
 import {CardName, CardNameIndexes, CardSuits} from './cards.js'
 import {SiteName, SiteNameIndexes} from './sites.js'
 import * as other from './other.js'
@@ -9,15 +10,11 @@ const worldSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'orde
 const dispSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order': 0, 'beast': 0}
 
 // Input savestring
-export const savestring = '030303000219The Helichrysum Chronicle2B010101234505FFFFFF20FFFFFF14FFFFDE1BFFFFFF29FFFFFF16FFFFE01EFFFFFF1FFFFFFF3B0624182B0E2629D61ED31D15D51309522F201C3521001FD2D42819C30B1632AD0F342233C125089810010D112C121A0507042314270AB717312D30062A1B2E0C030212E9DBDCEAE8E7E4DFDADDEDE2E6ECE3E5E1EB000105ARman'
+export const savestring = gameData["savestrings"][0];
 
 // --------------- Initialize and specify
 constructFormat()
 const offset = worldDeckSize + dispossessedDeckSize + relicDeckSize
-
-// --------------- Extract numbers
-
-//const curSiteSaveIDs =
 
 // --------------- Assign to object
 const save = {

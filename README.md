@@ -2,7 +2,7 @@
 
 ## Game end procedure
 
-After a game has ended: The savestring should be inserted into `assets/js/oath_parser.js`, and the player roles should be updated in `index.md`.
+After a game has ended: The savestring should be inserted into [assets/js/game_data.js](assets/js/game_data.js), and the player roles should be updated in `index.md`.
 
 Players are encouraged to write in the chronicle.
 

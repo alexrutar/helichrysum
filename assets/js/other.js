@@ -1,4 +1,4 @@
-export const oathArray = ["supremacy", "people", "devotion", "protection", "conspiracy"]
+export const oathArray = ["supremacy", "people", "devotion", "protection"]
 
 export const winCases = {
   32: 'chancellor',

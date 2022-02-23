@@ -4,6 +4,9 @@ import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath_parse
 function suitImagePath(suit) {
     return "assets/images/suit-" + suit + ".png";
 }
+function capitalize(str) {
+    return str.charAt(0).toUpperCase() + str.slice(1);
+}
 
 
 // set background image based on previous winner
@@ -22,8 +25,7 @@ const oathFancyName = {
     "supremacy": '<span class="goudy-capital">S</span>upremacy',
     "people": '<span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople',
     "devotion": '<span class="goudy-capital">D</span>evotion',
-    "protection": '<span class="goudy-capital">P</span>rotection',
-    "conspiracy": '<span class="goudy-capital">C</span>onspiracy'
+    "protection": '<span class="goudy-capital">P</span>rotection'
 }
 document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oath + '.png"> <span class="goudy-capital">O</span>ath <em>of</em> ' + oathFancyName[save.oath];
 
@@ -51,7 +53,7 @@ function createSuitRow(suit, count) {
     const row = document.createElement("tr");
 
     const suitCol = document.createElement("td");
-    suitCol.innerText = suit.charAt(0).toUpperCase() + suit.slice(1);
+    suitCol.innerText = capitalize(suit);
 
     const numberCol = document.createElement("td");
     numberCol.innerText = count;

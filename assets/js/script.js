@@ -33,7 +33,7 @@ document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oa
 // insert site names
 function insertSiteName(id, site){
     if (site.name != undefined){
-        var string = '</br>- ' + site.name;
+        var string = site.name;
         if (site.index1 < 210){
             string += ': '+ site.card1;}
         if (site.index2 < 210){

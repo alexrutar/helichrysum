@@ -76,27 +76,27 @@ suits.forEach(suit => createSuitRow(suit, worldSuitDict[suit]));
 (function() {
     var quotes = [
         {
-            text: " The home, a crackling fire. Calm, contentedness, and ease. ",
+            text: "The home, a crackling fire. Calm, contentedness, and ease.",
             img: "assets/images/suit-hearth.png"
         },
         {
-            text: " Bright lights in the night sky. Starry-eyed discovery and esoteric tradition. ",
+            text: "Bright lights in the night sky. Starry-eyed discovery and esoteric tradition.",
             img: "assets/images/suit-arcane.png"
         },
         {
-            text: " The betrayal of a sibling. The sewers, rats chewing on spare bones. ",
+            text: "The betrayal of a sibling. The sewers, rats chewing on spare bones.",
             img: "assets/images/suit-discord.png"
         },
         {
-            text: " Sword, stone, and burnished silver. Lockstep, willing or unwilling. ",
+            text: "Sword, stone, and burnished silver. Lockstep, willing or unwilling.",
             img: "assets/images/suit-order.png"
         },
         {
-            text: " Scratching, rustling in the grass. Fur, scale, and claw. ",
+            text: "Scratching, rustling in the grass. Fur, scale, and claw.",
             img: "assets/images/suit-beast.png"
         },
         {
-            text: " The sun, the moon—those traveling bodies. Care for one’s own. ",
+            text: "The sun, the moon—those traveling bodies. Care for one’s own.",
             img: "assets/images/suit-nomad.png"
         }
     ];
@@ -104,8 +104,8 @@ suits.forEach(suit => createSuitRow(suit, worldSuitDict[suit]));
     // Get the Quote element from the footer and insert the HTML
     document.getElementById("quote").innerHTML =
         '<p>' +
-        '<img src="' + quote.img + '">'+
+        '<img src="' + quote.img + '"> '+
         quote.text +
-        '<img src="' + quote.img + '">' +
+        ' <img src="' + quote.img + '">' +
         '</p>';
 })();

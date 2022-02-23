@@ -496,8 +496,24 @@ section#main_content {
   width: 1em;
 }
 
-#quote img {
-  height: 1em;
+#card-counts {
+  & img {
+    vertical-align: middle;
+  }
+  & td {
+    padding-top:2px;
+    padding-bottom:2px;
+  }
+}
+
+#quote {
+  & p {
+    padding: 1px;
+  }
+  & img {
+    height: 1em;
+    vertical-align:middle;
+  }
 }
 
 body {

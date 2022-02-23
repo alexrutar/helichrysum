@@ -1,5 +1,10 @@
 import {savestring, save, suits, worldSuitDict, dispSuitDict} from './oath_parser.js'
 
+// general utilities
+function suitImagePath(suit) {
+    return "assets/images/suit-" + suit + ".png";
+}
+
 
 // set background image based on previous winner
 if (window.innerWidth >= 1200) {
@@ -12,8 +17,15 @@ if (window.innerWidth >= 1200) {
 }
 
 
-// insert savestring
-document.getElementById("savestring").innerHTML = savestring + "\n";
+// Insert current oath
+const oathFancyName = {
+    "supremacy": '<span class="goudy-capital">S</span>upremacy',
+    "people": '<span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople',
+    "devotion": '<span class="goudy-capital">D</span>evotion',
+    "protection": '<span class="goudy-capital">P</span>rotection',
+    "conspiracy": '<span class="goudy-capital">C</span>onspiracy'
+}
+document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oath + '.png"> <span class="goudy-capital">O</span>ath <em>of</em> ' + oathFancyName[save.oath];
 
 
 // insert site names
@@ -35,17 +47,6 @@ for (let i=1; i<9; i++) {
 }
 
 
-// Insert current oath
-const oathFancyName = {
-    "supremacy": '<span class="goudy-capital">S</span>upremacy',
-    "people": '<span class="goudy-capital">T</span>he <span class="goudy-capital">P</span>eople',
-    "devotion": '<span class="goudy-capital">D</span>evotion',
-    "protection": '<span class="goudy-capital">P</span>rotection',
-    "conspiracy": '<span class="goudy-capital">C</span>onspiracy'
-}
-document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oath + '.png"> <span class="goudy-capital">O</span>ath <em>of</em> ' + oathFancyName[save.oath];
-
-
 // visualize the suit distribution with a bar plot
 function createSuitRow(suit, count) {
     const row = document.createElement("tr");
@@ -60,52 +61,42 @@ function createSuitRow(suit, count) {
     barVisualizationCol.classList.add("counter");
     for (let i=0; i<count; i++) {
         const suitImage = document.createElement("img");
-        suitImage.src = "assets/images/suit-" + suit + ".png";
+        suitImage.src = suitImagePath(suit);
         barVisualizationCol.appendChild(suitImage);
     }
 
     row.appendChild(suitCol);
     row.appendChild(numberCol);
     row.appendChild(barVisualizationCol);
-    document.getElementById("card-counts").appendChild(row);
+
+    return row
 }
-suits.forEach(suit => createSuitRow(suit, worldSuitDict[suit]));
+suits.forEach(
+    suit => document.getElementById("card-counts").appendChild(
+        createSuitRow(suit, worldSuitDict[suit])
+    )
+);
+
+
+// insert savestring
+document.getElementById("savestring").innerHTML = savestring + "\n";
 
 
 // Insert a random suit quote in the footer
 (function() {
-    var quotes = [
-        {
-            text: "The home, a crackling fire. Calm, contentedness, and ease.",
-            img: "assets/images/suit-hearth.png"
-        },
-        {
-            text: "Bright lights in the night sky. Starry-eyed discovery and esoteric tradition.",
-            img: "assets/images/suit-arcane.png"
-        },
-        {
-            text: "The betrayal of a sibling. The sewers, rats chewing on spare bones.",
-            img: "assets/images/suit-discord.png"
-        },
-        {
-            text: "Sword, stone, and burnished silver. Lockstep, willing or unwilling.",
-            img: "assets/images/suit-order.png"
-        },
-        {
-            text: "Scratching, rustling in the grass. Fur, scale, and claw.",
-            img: "assets/images/suit-beast.png"
-        },
-        {
-            text: "The sun, the moon—those traveling bodies. Care for one’s own.",
-            img: "assets/images/suit-nomad.png"
-        }
-    ];
-    var quote = quotes[Math.floor(Math.random() * quotes.length)];
-    // Get the Quote element from the footer and insert the HTML
+    var quotes = {
+        "hearth": "The home, a crackling fire. Calm, contentedness, and ease.",
+        "arcane": "Bright lights in the night sky. Starry-eyed discovery and esoteric tradition.",
+        "discord": "The betrayal of a sibling. The sewers, rats chewing on spare bones.",
+        "order": "Sword, stone, and burnished silver. Lockstep, willing or unwilling.",
+        "beast": "Scratching, rustling in the grass. Fur, scale, and claw.",
+        "nomad": "The sun, the moon—those traveling bodies. Care for one’s own."
+    };
+    var suit = suits[Math.floor(Math.random() * suits.length)];
     document.getElementById("quote").innerHTML =
         '<p>' +
-        '<img src="' + quote.img + '"> '+
-        quote.text +
-        ' <img src="' + quote.img + '">' +
+        '<img src="' + suitImagePath(suit) + '"> '+
+        quotes[suit] +
+        ' <img src="' + suitImagePath(suit) + '">' +
         '</p>';
 })();

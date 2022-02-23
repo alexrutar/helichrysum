@@ -496,14 +496,13 @@ section#main_content {
   width: 1em;
 }
 
-#card-counts {
-  & img {
-    vertical-align: middle;
-  }
-  & td {
-    padding-top:2px;
-    padding-bottom:2px;
-  }
+#card-counts img{
+  vertical-align: middle;
+}
+
+#card-counts td, #player-profiles td {
+  padding-top:2px;
+  padding-bottom:2px;
 }
 
 #quote {
@@ -514,6 +513,17 @@ section#main_content {
     height: 1em;
     vertical-align:middle;
   }
+}
+
+#savestring {
+  -webkit-user-select: all;
+  -moz-user-select: all;
+  -ms-user-select: all;
+  user-select: all;
+}
+
+figcaption {
+  text-align: center;
 }
 
 body {

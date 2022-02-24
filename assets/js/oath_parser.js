@@ -12,6 +12,7 @@ const dispSuitDict = {'discord': 0, 'hearth': 0, 'nomad': 0, 'arcane': 0, 'order
 
 // Input savestring
 export const savestring = gameData["savestrings"][0];
+export const houses = gameData["houses"]
 
 // --------------- Initialize and specify
 constructFormat()

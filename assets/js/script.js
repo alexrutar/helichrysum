@@ -1,4 +1,4 @@
-import {savestring, save, suits, regions, worldSuitDict, dispSuitDict} from './oath_parser.js'
+import {savestring, save, suits, regions, houses, worldSuitDict, dispSuitDict} from './oath_parser.js'
 
 // general utilities
 function suitImagePath(suit) {
@@ -28,6 +28,44 @@ const oathFancyName = {
     "protection": '<span class="goudy-capital">P</span>rotection'
 }
 document.getElementById("oath").innerHTML = '<img src="assets/images/' + save.oath + '.png"> <span class="goudy-capital">O</span>ath <em>of</em> ' + oathFancyName[save.oath];
+
+
+// Insert active players
+function createPlayerProfile(color, citizenStatus, chancellorColor) {
+    // color is the house color, as in prevWinColor
+    // citizenStatus is "exile" or "citizen"
+    const playerFig = document.createElement("figure")
+    const playerImg = document.createElement("img")
+    playerImg.classList.add("portrait")
+    playerImg.src = "/assets/character_art/portrait_" + color + ".png"
+    const playerCaption = document.createElement("figcaption")
+    if (color == "chancellor") {
+        var citizenString = ""
+        var profileName = houses[chancellorColor]["name"]
+        var profileTitle = "Chancellor"
+    } else {
+        var citizenString = " (" + citizenStatus + ")"
+        var profileTitle = houses[color]["name"]
+        var profileName = houses[color]["player"]
+    }
+    playerCaption.innerHTML = "<strong>" + profileTitle + "</strong>" + "<br>" + profileName + citizenString
+
+    playerFig.appendChild(playerImg)
+    playerFig.appendChild(playerCaption)
+    return playerFig
+}
+// TODO: iterate over player list here, passing the color, citizenStatus, and 
+// should be something like
+// prevGameList.forEach(
+//   player => document.getElementById("player-profiles").appendChild(createPlayerProfile(player.color, player.citizenStatus))
+// )
+// and don't forget to delete the contents of the "player-profiles" div
+
+// these are the calls that render the current baord
+document.getElementById("player-profiles").appendChild(createPlayerProfile("chancellor", null, "red"))
+document.getElementById("player-profiles").appendChild(createPlayerProfile("black", "exile", null))
+document.getElementById("player-profiles").appendChild(createPlayerProfile("blue", "exile", null))
+document.getElementById("player-profiles").appendChild(createPlayerProfile("yellow", "exile", null))
 
 
 // insert site names

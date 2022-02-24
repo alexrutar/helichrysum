@@ -519,6 +519,16 @@ section#main_content {
   user-select: all;
 }
 
+#player-profiles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  justify-items: center;
+  & figure {
+    display: grid;
+  }
+}
+
 figcaption {
   text-align: center;
 }

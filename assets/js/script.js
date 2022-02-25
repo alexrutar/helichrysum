@@ -39,12 +39,12 @@ function createPlayerProfile(color, citizenStatus, chancellorColor) {
     playerImg.classList.add("portrait")
     const playerCaption = document.createElement("figcaption")
     if (color == "chancellor") {
-        playerImg.src = "/assets/character_art/portrait_chancellor.png"
+        playerImg.src = "assets/character_art/portrait_chancellor.png"
         var citizenString = ""
         var profileName = houses[chancellorColor]["player"]
         var profileTitle = "Chancellor"
     } else {
-        playerImg.src = "/assets/character_art/portrait_" + citizenStatus + "_" + color + ".png"
+        playerImg.src = "assets/character_art/portrait_" + citizenStatus + "_" + color + ".png"
         var citizenString = " (" + citizenStatus + ")"
         var profileName = houses[color]["player"]
         var profileTitle = houses[color]["name"]

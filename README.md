@@ -1,13 +1,15 @@
 # The Helichrysum Chronicle
+## Setup
+You can input the player names and houses into [assets/js/game_data.js](assets/js/game_data.js).
+All the houses currently have placeholders.
 
 ## Game end procedure
+After a game has ended, the savestring should be inserted into [assets/js/game_data.js](assets/js/game_data.js).
 
-After a game has ended: The savestring should be inserted into `assets/js/oath-parser.js` and `index.md`, and the player roles should be updated in `index.md`.
+Players are encouraged to add entries to the chronicle, which is rendered from [index.md](index.md).
 
-Players are encouraged to write in the chronicle.
-
-## Acknowledgements
-
+## Contributions
 - Oath was made by Cole Werhle & Leder Games
 - The TTS mod was made by AgentElron
 - The parser was inspired by the [Vagabottos OathParser](https://github.com/Vagabottos/OathParser).
+- This site was written by [Andreas Bock Michelsen](https://github.com/AndBm) and [Alex Rutar](https://github.com/alexrutar).

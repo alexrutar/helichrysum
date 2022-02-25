@@ -121,7 +121,7 @@ function addCardsFormat(deckSize){
     }
 }
 
-function byteParser(n,A,B){
+function byteParser(n, A, B){
   const byte = hexParser(n)
   // Order of colors in byte: [] [] [Chancellor (ignored)] [Black] [Yellow] [White] [Blue] [Red]
   const status = {

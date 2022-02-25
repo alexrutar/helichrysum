@@ -58,24 +58,25 @@ const colorList = ["red", "blue", "white", "yellow", "black"];
 var chancellorColor = save.prevWinColor // default to chancellor loss
 var prevChancellorColor
 for (const color of colorList) {
-  // The chancellor is the only defined player who was inactive (assuming all players always participate)
-  if (houses[color]["player"] && save.prevActiveStatus[color] == "inactive"){
-    prevChancellorColor = color
-  }
+    // The chancellor is the only defined player who was inactive
+    // assuming all players always participate
+    if (houses[color]["player"] && save.prevActiveStatus[color] == "inactive") {
+        prevChancellorColor = color
+    }
 }
-if (save.prevWinColor == "chancellor"){
-  chancellorColor = prevChancellorColor
+if (save.prevWinColor == "chancellor") {
+    chancellorColor = prevChancellorColor
 } else {
-  // If chancellor loss, set winner house inactive and give chancellor their house back
-  save.prevActiveStatus[save.prevWinColor] = "inactive"
-  save.prevActiveStatus[prevChancellorColor] = "active"
+    // If chancellor loss, set winner house inactive and give chancellor their house back
+    save.prevActiveStatus[save.prevWinColor] = "inactive"
+    save.prevActiveStatus[prevChancellorColor] = "active"
 }
 // First chancellor, then others
 document.getElementById("player-profiles").appendChild(createPlayerProfile("chancellor", null, chancellorColor))
 for (const color of colorList) {
-  if (save.prevActiveStatus[color] == "active"){
-    document.getElementById("player-profiles").appendChild(createPlayerProfile(color, save.exileCitizenStatus[color], chancellorColor))
-  }
+    if (save.prevActiveStatus[color] == "active") {
+        document.getElementById("player-profiles").appendChild(createPlayerProfile(color, save.exileCitizenStatus[color], chancellorColor))
+    }
 }
 
 

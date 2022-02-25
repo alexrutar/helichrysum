@@ -396,10 +396,10 @@ img {
 }
 
 @font-face {
-    font-family: 'goudy_header';
-    src: url('../fonts/GoudyTextMT-LombardicCapitals.f246035d5c069ac6c7c9.ttf') format('truetype'),
-         url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.woff2') format('woff2'),
-         url('../fonts/goudytextmt-lombardiccapitals.f246035d5c069ac6c7c9-webfont.woff') format('woff');
+    font-family: 'Goudy Header';
+    src: url('../fonts/GoudyTextMT-LombardicCapitals.ttf') format('truetype'),
+         url('../fonts/GoudyTextMT-LombardicCapitals.woff2') format('woff2'),
+         url('../fonts/GoudyTextMT-LombardicCapitals.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -414,7 +414,7 @@ section#main_content {
 
 
   & h2, & h3 {
-    font-family: 'goudy_header';
+    font-family: 'Goudy Header';
     font-weight: bold;
     padding-bottom: 10px;
   }
@@ -485,7 +485,7 @@ section#main_content {
     height: 40px;
   }
   & .goudy-capital {
-    font-family: 'goudy_header'
+    font-family: 'Goudy Header'
   }
 }
 

@@ -20,7 +20,7 @@ export const gameData = {
             "name": "House Blue"
         },
         "white": {
-            "player": "None",
+            "player": null,
             "name": "House White"
         }
     }

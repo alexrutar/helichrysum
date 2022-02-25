@@ -27,8 +27,8 @@ const save = {
     gameCount: hexParser(3),
     nameLength: hexParser(4),
     name: strParser(5),
-    prevActiveStatus: hexParser(6),
-    exileCitizenStatus: citizenParser(7),
+    prevActiveStatus: byteParser(6,"active","inactive"),
+    exileCitizenStatus: byteParser(7,"citizen","exile"),
     oath: other.oathArray[hexParser(8)],
     // Skip suit order (???), 9-15.
     // ---------------- Map
@@ -121,18 +121,18 @@ function addCardsFormat(deckSize){
     }
 }
 
-function citizenParser(n){
-    var m = getPos(n)
-    const byte = parseInt(savestring.substr(m,format[n]))
-    // Order of colors in byte: [] [] [] [Black] [Yellow] [White] [Blue] [Red]
-    const citizenStatus = {
-        red: byte & 1 ? "citizen" : "exile", // Bitwise magic and ternary operators!
-        blue: byte & 2 ? "citizen" : "exile",
-        white: byte & 4 ? "citizen" : "exile",
-        yellow: byte & 8 ? "citizen" : "exile",
-        black: byte & 16 ? "citizen" : "exile"
-    }
-    return citizenStatus
+function byteParser(n,A,B){
+  const byte = hexParser(n)
+  // Order of colors in byte: [] [] [Chancellor (ignored)] [Black] [Yellow] [White] [Blue] [Red]
+  const status = {
+    red: byte & 1 ? A : B, // Bitwise magic and ternary operators!
+    blue: byte & 2 ? A : B,
+    white: byte & 4 ? A : B,
+    yellow: byte & 8 ? A : B,
+    black: byte & 16 ? A : B,
+    chancellor: byte & 32 ? A : B,
+  }
+  return status
 }
 
 function strParser(n){

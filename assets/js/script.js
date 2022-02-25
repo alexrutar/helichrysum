@@ -45,8 +45,8 @@ function createPlayerProfile(color, citizenStatus, chancellorColor) {
         var profileTitle = "Chancellor"
     } else {
         var citizenString = " (" + citizenStatus + ")"
-        var profileTitle = houses[color]["name"]
         var profileName = houses[color]["player"]
+        var profileTitle = houses[color]["name"]
     }
     playerCaption.innerHTML = "<strong>" + profileTitle + "</strong>" + "<br>" + profileName + citizenString
 
@@ -54,18 +54,29 @@ function createPlayerProfile(color, citizenStatus, chancellorColor) {
     playerFig.appendChild(playerCaption)
     return playerFig
 }
-// TODO: iterate over player list here, passing the color, citizenStatus, and
-// should be something like
-// prevGameList.forEach(
-//   player => document.getElementById("player-profiles").appendChild(createPlayerProfile(player.color, player.citizenStatus))
-// )
-// and don't forget to delete the contents of the "player-profiles" div
-
-// these are the calls that render the current board
-document.getElementById("player-profiles").appendChild(createPlayerProfile("chancellor", null, "red"))
-document.getElementById("player-profiles").appendChild(createPlayerProfile("black", "exile", null))
-document.getElementById("player-profiles").appendChild(createPlayerProfile("blue", "exile", null))
-document.getElementById("player-profiles").appendChild(createPlayerProfile("yellow", "exile", null))
+const colorList = ["red", "blue", "white", "yellow", "black"];
+var chancellorColor = save.prevWinColor // default to chancellor loss
+var prevChancellorColor
+for (const color of colorList) {
+  // The chancellor is the only defined player who was inactive (assuming all players always participate)
+  if (houses[color]["player"] && save.prevActiveStatus[color] == "inactive"){
+    prevChancellorColor = color
+  }
+}
+if (save.prevWinColor == "chancellor"){
+  chancellorColor = prevChancellorColor
+} else {
+  // If chancellor loss, set winner house inactive and give chancellor their house back
+  save.prevActiveStatus[save.prevWinColor] = "inactive"
+  save.prevActiveStatus[prevChancellorColor] = "active"
+}
+// First chancellor, then others
+document.getElementById("player-profiles").appendChild(createPlayerProfile("chancellor", null, chancellorColor))
+for (const color of colorList) {
+  if (save.prevActiveStatus[color] == "active"){
+    document.getElementById("player-profiles").appendChild(createPlayerProfile(color, save.exileCitizenStatus[color], chancellorColor))
+  }
+}
 
 
 // insert site names

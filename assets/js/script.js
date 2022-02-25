@@ -41,7 +41,7 @@ function createPlayerProfile(color, citizenStatus, chancellorColor) {
     const playerCaption = document.createElement("figcaption")
     if (color == "chancellor") {
         var citizenString = ""
-        var profileName = houses[chancellorColor]["name"]
+        var profileName = houses[chancellorColor]["player"]
         var profileTitle = "Chancellor"
     } else {
         var citizenString = " (" + citizenStatus + ")"
@@ -54,14 +54,14 @@ function createPlayerProfile(color, citizenStatus, chancellorColor) {
     playerFig.appendChild(playerCaption)
     return playerFig
 }
-// TODO: iterate over player list here, passing the color, citizenStatus, and 
+// TODO: iterate over player list here, passing the color, citizenStatus, and
 // should be something like
 // prevGameList.forEach(
 //   player => document.getElementById("player-profiles").appendChild(createPlayerProfile(player.color, player.citizenStatus))
 // )
 // and don't forget to delete the contents of the "player-profiles" div
 
-// these are the calls that render the current baord
+// these are the calls that render the current board
 document.getElementById("player-profiles").appendChild(createPlayerProfile("chancellor", null, "red"))
 document.getElementById("player-profiles").appendChild(createPlayerProfile("black", "exile", null))
 document.getElementById("player-profiles").appendChild(createPlayerProfile("blue", "exile", null))

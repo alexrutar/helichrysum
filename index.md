@@ -19,15 +19,15 @@ Among the commonfolk, it was said that a new era had begun.
 Omens had been taken, warning of a time of turmoil and conflict.
 The great chancellor Viktor I had sworn to expand the realm with fire and sword.
 At this time he securely held the known lands and has amassed a strong army across the mountains.
-Meanwhile, however, the exiled Alex of House Red had been working with the land's greatest alchemist to amass a large fortune.
+Meanwhile, however, the exiled Order of the Red Lotus had been working with the land's greatest alchemist to amass a large fortune.
 This, of course, would turn out most auspiciously for his ill-favored house.
 The exiled Kristín of House Blue was uncovering the secrets of the land and unearthing forgotten relics.
 But Andreas of the House of Dawn was no longer content in his exile, and rose from the Hinterlands with a mighty army.
 It has been speculated that such expeditious mustering could only have been done with the help of dark magic.
 The frenzied commander struck and seized control from the Rightful Chancellor, ushering in a time of great despair!
-Facing such foul opposition, Chancellor Viktor I, in his great wisdom, called upon the prosperous House Red, and in exchange for favor and devotion, he passed along administrative control over the empire.
+Facing such foul opposition, Chancellor Viktor I, in his great wisdom, called upon the prosperous Order of the Red Lotus, and in exchange for favor and devotion, he passed along administrative control over the empire.
 
-As their first official action, House Red declared themselves lawful citizens of the Empire, and donned the fabled Ring of Devotion to and campaign retake lost lands.
+As their first official action, the Order of the Red Lotus declared themselves lawful citizens of the Empire, and donned the fabled Ring of Devotion to and campaign retake lost lands.
 In the face of this just force, the devious Exiles banded together to overthrow what they understood as oppressive control of the empire.
 Battle lines were drawn, and the land was trapped in the cycles of warfare.
 Power passed back and forth, and destruction spread across the land.
@@ -38,7 +38,7 @@ But calling upon the wild forces of the land, the Empire grew too powerful: the 
 In the final stages of the war, the combined efforts of Chancellor Viktor and Upstanding Citizen Alex annihilated the occupying forces, and victory for the empire was certain, though the war-ravaged lands were left to be pillaged by bandits and outlaws.
 In a final act of cunning, the Great Successor Alex seized hold of the empire's armies and captured the favor of the people, thus ending the crumbling reign of Viktor I with consolidated military strength and popular support.
 But in the chaos, the bloodthirsty and spiteful House of Dawn made a desperate and cowardly attack on the final stronghold of the Empire, toppling their rule and casting the land into disarray.
-Much doubt was cast on the future of the Empire that the mighty House Red inherited...
+Much doubt was cast on the future of the Empire that the mighty Order of the Red Lotus inherited...
 
 
 ### The Dawn of History

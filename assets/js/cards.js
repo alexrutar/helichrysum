@@ -454,4 +454,4 @@ export const CardSuits = {
     'Vow of Beast-kin': 'beast',
     'Bracken': 'beast',
     'Wild Allies': 'beast'
-}
+};

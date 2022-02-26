@@ -1,9 +1,9 @@
 ---
 ---
 /* http://meyerweb.com/eric/tools/css/reset/
-   v2.0 | 20110126
-   License: none (public domain)
-*/
+v2.0 | 20110126
+License: none (public domain)
+ */
 
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -396,12 +396,12 @@ img {
 }
 
 @font-face {
-    font-family: 'Goudy Header';
-    src: url('../fonts/GoudyTextMT-LombardicCapitals.ttf') format('truetype'),
-         url('../fonts/GoudyTextMT-LombardicCapitals.woff2') format('woff2'),
-         url('../fonts/GoudyTextMT-LombardicCapitals.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'Goudy Header';
+  src: url('../fonts/GoudyTextMT-LombardicCapitals.ttf') format('truetype'),
+  url('../fonts/GoudyTextMT-LombardicCapitals.woff2') format('woff2'),
+  url('../fonts/GoudyTextMT-LombardicCapitals.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
 }
 
 section#main_content {

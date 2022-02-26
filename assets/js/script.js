@@ -1,4 +1,4 @@
-import {savestring, save, suits, regions, houses, worldSuitDict, dispSuitDict} from './oath_parser.js';
+import {savestring, save, suits, regions, houses, worldSuitDict} from './oath_parser.js';
 
 // general utilities
 function suitImagePath(suit) {

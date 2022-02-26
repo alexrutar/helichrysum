@@ -1,6 +1,6 @@
 import {gameData} from '../../game_data.js';
-import {CardName, CardNameIndexes, CardSuits} from './cards.js';
-import {SiteName, SiteNameIndexes} from './sites.js';
+import {CardNameIndexes, CardSuits} from './cards.js';
+import {SiteNameIndexes} from './sites.js';
 import * as other from './other.js';
 
 let worldDeckSize, dispossessedDeckSize, relicDeckSize;

@@ -538,3 +538,16 @@ body {
   background-size: 50%;
   background-color: #ece4d8;
 }
+
+a.hover_img {
+  position: relative;
+  & img {
+    position: absolute;
+    display: none;
+    z-index: 99;
+    zoom: 60%;
+  }
+  &:hover img {
+    display: block;
+  }
+}

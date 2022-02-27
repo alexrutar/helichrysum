@@ -86,18 +86,23 @@ for (const color of colorList) {
 
 
 // insert site names
+function strToHoverImg(string){
+  return "<a class=\"hover_img\" href=\"#\">" + string + "<img src=\"assets/cards/" + string + ".webp\"></a>";
+}
 function createSite(site) {
     // create the site <li> ... </li> element
     const siteLI = document.createElement('li');
-    var siteStr = site.name;
+    var siteStr = strToHoverImg(site.name);
+    //var siteStr = site.name;
+    //console.log("<a class=\"hover_img\" href=\"#\">" + site.name + "<img src=\"../cards/" + site.name + ".webp\" height=\"100\"></a>")
     if (site.index1 < 210) {
-        siteStr += ': ' + site.card1;
+        siteStr += ': ' + strToHoverImg(site.card1);
     }
     if (site.index2 < 210) {
-        siteStr += ', ' + site.card2;
+        siteStr += ', ' + strToHoverImg(site.card2);
     }
     if (site.index3 < 210) {
-        siteStr += ', ' + site.card3;
+        siteStr += ', ' + strToHoverImg(site.card3);
     }
     siteLI.innerHTML = siteStr;
     return siteLI;

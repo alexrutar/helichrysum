@@ -87,8 +87,8 @@ for (const color of colorList) {
 
 
 // insert site names
-function cardHoverLink(string) {
-    return '<span class="hover_img">' + string + '<img src="assets/cards/' + string + '.webp"></span>';
+function cardHoverLink(card) {
+    return '<label for="card_' + card + '">' + card + '</label>' + '<input type="checkbox" id="card_' + card + '">' + '<img src="assets/cards/' + card + '.webp">';
 }
 function createSite(site) {
     // create the site <li> ... </li> element

@@ -539,17 +539,23 @@ body {
   background-color: #ece4d8;
 }
 
-span.hover_img {
-  position: relative;
+label {
   cursor: pointer;
+  position: relative;
   color: #417090;
-  & img {
-    position: absolute;
+
+  & + input,
+  & + input + img {
     display: none;
+  }
+
+  & + input + img {
+    position: absolute;
     z-index: 99;
     zoom: 60%;
   }
-  &:hover img {
-    display: block;
-  }
+}
+
+input:checked + img {
+  display: block;
 }

@@ -539,8 +539,10 @@ body {
   background-color: #ece4d8;
 }
 
-a.hover_img {
+span.hover_img {
   position: relative;
+  cursor: pointer;
+  color: #417090;
   & img {
     position: absolute;
     display: none;

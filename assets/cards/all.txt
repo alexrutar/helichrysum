@@ -1,261 +1,260 @@
-Mine
-Salt Flats
-Fertile Valley
-Barren Coast
-Plains
-River
-Steppe
-Mountain
-Lush Coast
-Marshes
-Wastes
-Rocky Coast
-Narrow Pass
-Charming Valley
-Deep Woods
-Standing Stones
+A Fast Steed
+A Round of Ale
+A Small Favor
+Acting Troupe
+Alchemist
+Ancient Binding
+Ancient Bloodline
 Ancient City
-Drowned City
-Great Slum
-The Tribunal
-Buried Giant
-Shrouded Wood
-The Hidden Place
-Wrestlers
+Ancient Forge
+Ancient Pact
+Animal Host
+Animal Playmates
+Armed Mob
+Assassin
+Augury
+Awaited Return
+Ballot Box
+Bandit Chief
+Bandit Crown
+Bandit Rampart
+Banner of The Darkest Secret
+Banner of The Mob's Favor
+Banner of The People's Favor
+Barren Coast
 Battle Honors
 Bear Traps
-Longbows
-Keep
-Pressgangs
-Garrison
-Scouts
-Alchemist
-Martial Culture
-Errand Boy
-Mercenaries
-Tinker's Fair
-Rain Boots
-A Small Favor
-Second Wind
-Gossip
-Key to the City
-Scryer
-Disgraced Captain
-Naysayers
-Book Burning
-Ancient Binding
-Horse Archers
-Warning Signals
-Elders
-The Gathering
-Faithful Friend
-Tents
-Great Herd
-Fire Talkers
-Magician's Code
-Spirit Snare
-Wizard School
-Dazzle
-Acting Troupe
-Taming Charm
-Inquisitor
-Wolves
-Animal Playmates
-True Names
-The Old Oak
-Forest Paths
-Long-Lost Heir
-Rangers
-Roving Terror
-Wayside Inn
-Extra Provisions
-Memory of Home
-Welcoming Party
-Traveling Doctor
-Storyteller
-Armed Mob
-Tavern Songs
-Secret Signal
-Augury
-Rusting Ray
-Portal
-Billowing Fog
-Kindred Warriors
-Terror Spells
-Blood Pact
-Revelation
-Observatory
-Plague Engines
-Gleaming Armor
-Bewitch
-Jinx
-Tutor
-Dream Thief
-Cracking Ground
-Sealing Ward
-Initiation Rite
-Vow of Silence
-Forgotten Vault
-Map Library
-Witch's Bargain
-Master of Disguise
-Charlatan
-Assassin
-Downtrodden
-Blackmail
-Cracked Sage
-Dissent
-False Prophet
-Vow of Renewal
-Zealots
-Royal Ambitions
-Salt the Earth
 Beast Tamer
-Riots
-Silver Tongue
-Gambling Hall
-Boiling Lake
-Relic Thief
-Enchantress
-Insomnia
-Sneak Attack
-Sleight of Hand
-Bandit Chief
-Chaos Cult
-Slander
-Code of Honor
-Outriders
-Messenger
-Field Promotion
-Palanquin
-Shield Wall
-Military Parade
-Tome Guardians
-Tyrant
-Secret Police
-Forced Labor
-Specialist
-Captains
-Siege Engines
-Royal Tax
-Toll Roads
-Curfew
-Knights Errant
-Vow of Obedience
-Hunting Party
-Council Seat
-Encirclement
-Peace Envoy
-Relic Hunter
-Homesteaders
-Crop Rotation
-A Round of Ale
-Land Warden
-Charming Friend
-Village Constable
-Family Heirloom
-News from Afar
-Levelers
-Fabled Feast
-The Great Levy
-Hearts and Minds
-Relic Breaker
-Book Binders
-Ballot Box
-Saddle Makers
-Herald
-Rowdy Pub
-Vow of Peace
-Deed Writer
-Salad Days
-Marriage
-Hospital
-Awaited Return
-Convoys
-Vow of Kinship
-Wild Mounts
-Lancers
-Mountain Giant
-Rival Khan
-Lost Tongue
-Special Envoy
-Resettle
-Oracle
-Pilgrimage
-Spell Breaker
-Mounted Patrol
-Great Crusade
-Ancient Bloodline
-Ancient Pact
-Storm Caller
-Family Wagon
-Way Station
-Twin Brother
-Hospitality
-A Fast Steed
-Relic Worship
-Sacred Ground
-Nature Worship
+Bewitch
+Billowing Fog
 Birdsong
-Small Friends
-Grasping Vines
-Threatening Roar
-Fae Merchant
-Second Chance
-Pied Piper
-Mushrooms
-Insect Swarm
-Vow of Union
-Giant Python
-War Tortoise
-New Growth
-Wild Cry
-Animal Host
-Memory of Nature
-Marsh Spirit
-Vow of Poverty
-Forest Council
-Walled Garden
-Vow of Beastkin
+Blackmail
+Blood Pact
+Boiling Lake
+Book Binders
+Book Burning
+Book of Records
 Bracken
-Wild Allies
-Sprawling Rampart
-Bandit Rampart
+Brass Horse
+Broken Forge
+Buried Giant
+Captains
+Chaos Cult
+Charlatan
+Charming Friend
+Charming Valley
+Circlet of Command
+Code of Honor
+Convoys
+Council Seat
+Cracked Horn
+Cracked Sage
+Cracking Ground
+Crop Rotation
+Cup of Plenty
+Curfew
+Cursed Cauldron
+Dazzle
+Deed Writer
+Deep Woods
+Disgraced Captain
+Dissent
+Downtrodden
+Dowsing Sticks
+Dragonskin Drum
+Dream Thief
+Drowned City
+Elders
+Enchantress
+Encirclement
+Errand Boy
+Extra Provisions
+Fabled Feast
+Fae Merchant
+Faithful Friend
+Fallen Spire
+False Prophet
+Family Heirloom
+Family Wagon
+Fertile Valley
+Festival District
+Field Promotion
+Fire Talkers
+Forced Labor
+Forest Council
+Forest Paths
+Forest Temple
+Forgotten Vault
+Gambling Hall
+Garrison
+Giant Python
+Gleaming Armor
+Gossip
+Grand Mask
+Grasping Vines
+Great Crusade
+Great Herd
+Great Slum
+Great Spire
 Hall of Debate
 Hall of Mockery
-Forest Temple
+Hearts and Minds
+Herald
+Homesteaders
+Horned Mask
+Horse Archers
+Hospital
+Hospitality
+Hunting Party
+Initiation Rite
+Inquisitor
+Insect Swarm
+Insomnia
+Ivory Eye
+Jinx
+Keep
+Key to the City
+Kindred Warriors
+Knights Errant
+Lancers
+Land Warden
+Levelers
+Long-Lost Heir
+Longbows
+Lost Tongue
+Lush Coast
+Magician's Code
+Map
+Map Library
+Marriage
+Marsh Spirit
+Marshes
+Martial Culture
+Master of Disguise
+Memory of Home
+Memory of Nature
+Mercenaries
+Messenger
+Military Parade
+Mine
+Mountain
+Mountain Giant
+Mounted Patrol
+Mushrooms
+Narrow Pass
+Nature Worship
+Naysayers
+New Growth
+News from Afar
+Observatory
+Obsidian Cage
+Oracle
+Oracular Pig
+Outriders
+Palanquin
+Peace Envoy
+Pied Piper
+Pilgrimage
+Plague Engines
+Plains
+Portal
+Pressgangs
+Rain Boots
+Rangers
+Relic Breaker
+Relic Hunter
+Relic Thief
+Relic Worship
+Resettle
+Revelation
+Ring of Devotion
+Riots
+Rival Khan
+River
+Rocky Coast
+Roving Terror
+Rowdy Pub
+Royal Ambitions
+Royal Tax
 Ruined Temple
-Festival District
+Rusting Ray
+Sacred Ground
+Saddle Makers
+Salad Days
+Salt Flats
+Salt the Earth
+Scouts
+Scryer
+Sealing Ward
+Second Chance
+Second Wind
+Secret Police
+Secret Signal
+Shield Wall
+Shrouded Wood
+Siege Engines
+Silver Tongue
+Skeleton Key
+Slander
+Sleight of Hand
+Small Friends
+Sneak Attack
+Special Envoy
+Specialist
+Spell Breaker
+Spirit Snare
+Sprawling Rampart
 Squalid District
-Great Spire
-Fallen Spire
-Ancient Forge
-Broken Forge
-Conspiracy
+Standing Stones
+Steppe
+Sticky Fire
+Storm Caller
+Storyteller
+Taming Charm
+Tavern Songs
+Tents
+Terror Spells
+The Gathering
+The Great Levy
+The Hidden Place
+The Old Oak
+The Tribunal
+Threatening Roar
+Tinker's Fair
+Toll Roads
+Tome Guardians
+Traveling Doctor
+True Names
+Truthful Harp
+Tutor
+Twin Brother
+Tyrant
+Village Constable
+Vision of Conquest
 Vision of Faith
 Vision of Rebellion
 Vision of Sanctuary
-Vision of Conquest
-Banner of The Darkest Secret
-Banner of The People's Favor
-Banner of The Mob's Favor
-Sticky Fire
-Cursed Cauldron
-Brass Horse
-Truthful Harp
-Grand Mask
-Horned Mask
-Cup of Plenty
+Vow of Beastkin
+Vow of Kinship
+Vow of Obedience
+Vow of Peace
+Vow of Poverty
+Vow of Renewal
+Vow of Silence
+Vow of Union
+Walled Garden
+War Tortoise
+Warning Signals
+Wastes
+Way Station
+Wayside Inn
+Welcoming Party
 Whistle
-Dowsing Sticks
-Cracked Horn
-Bandit Crown
-Ring of Devotion
-Skeleton Key
-Oracular Pig
-Circlet of Command
-Ivory Eye
-Map
-Obsidian Cage
-Book of Records
-Dragonskin Drum
+Wild Allies
+Wild Cry
+Wild Mounts
+Witch's Bargain
+Wizard School
+Wolves
+Wrestlers
+Zealots

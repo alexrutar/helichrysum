@@ -4,7 +4,7 @@ You can input the player names and houses into [game_data.js](game_data.js).
 All the houses currently have placeholders.
 
 ## Game end procedure
-After a game has ended, the savestring should be inserted into [game_data.js](game_data.js).
+After a game has ended, the savestring should be inserted into [game_data.js](/game_data.js).
 
 Players are encouraged to add entries to the chronicle, which is rendered from [index.md](index.md).
 

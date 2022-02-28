@@ -17,7 +17,7 @@ export const gameData = {
         },
         "blue": {
             "player": "Kristín",
-            "name": "House Blue"
+            "name": "Cerulean Cyclopes"
         },
         "white": {
             "player": null,

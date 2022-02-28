@@ -8,7 +8,6 @@ function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
 }
 
-
 // set background image based on previous winner
 if (window.innerWidth >= 1200) {
     var img_name;
@@ -20,6 +19,8 @@ if (window.innerWidth >= 1200) {
     document.body.style.backgroundImage = 'url(assets/character_art/' + img_name;
 }
 
+// Insert name under Oath logo
+document.getElementById("name").innerHTML = save.name;
 
 // Insert current oath
 const oathFancyName = {

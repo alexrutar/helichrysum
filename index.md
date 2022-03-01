@@ -17,25 +17,25 @@ The woman hesitates, enjoying the warming rays of the sun, and starts on her pat
 
 ---
 
-A squire woke with rosy cheek
-he donned his cap and shoe
-He set out for the Oak to seek
+A squire woke with rosy cheek <br>
+he donned his cap and shoe <br>
+He set out for the Oak to seek <br>
+Where to, Old Oak, where to? 
+
+His heart did for a maiden burn,<br>
+the Oak a secret knew:<br>
+Would the maid his love return?<br>
 Where to, Old Oak, where to?
 
-His heart did for a maiden burn,
-the Oak a secret knew:
-Would the maid his love return?
+It travels west, it travels east<br>
+across the ocean blue,<br>
+It must escape the Roving Beast<br>
 Where to, Old Oak, where to?
 
-It travels west, it travels east
-across the ocean blue,
-It must escape the Roving Beast
-Where to, Old Oak, where to?
-
-The maid would wait and weep and pray
-'till she found love anew
-The squire searches to this day
-Where to, Old Oak, where to?
+The maid would wait and weep and pray<br>
+'till she found love anew<br>
+The squire searches to this day<br>
+Where to, Old Oak, where to?<br>
 
 
 ### First Era of Supremacy,<br>Reign of Viktor I

@@ -2,6 +2,10 @@
 title: Game State
 layout: default
 ---
+
+### First Era of Protection,<br>Reign of Andreas I
+A new era begins...
+
 ### First Era of The People,<br>Reign of Alex I
 As a new day dawned, the woman left her hovel to gather water at the River.
 While the morning dew slowly evaporated in the sun, rising with the promise of a beautiful day, she spotted a small host of warbands arriving under the Imperial banner, along with many camp followers carrying the unmistakable look of refugees from the War of the Four Houses.
@@ -10,6 +14,28 @@ A figure wearing the ceremonial mask of the Chancellor clambered unto a cliff an
 From this rock, a new Empire will rise, not from violence, but from the hearts of each and every one of you, my loyal subjects! Such is my oath."
 
 The woman hesitates, enjoying the warming rays of the sun, and starts on her path home with a filled jug balancing atop her head.
+
+---
+
+A squire woke with rosy cheek
+he donned his cap and shoe
+He set out for the Oak to seek
+Where to, Old Oak, where to?
+
+His heart did for a maiden burn,
+the Oak a secret knew:
+Would the maid his love return?
+Where to, Old Oak, where to?
+
+It travels west, it travels east
+across the ocean blue,
+It must escape the Roving Beast
+Where to, Old Oak, where to?
+
+The maid would wait and weep and pray
+'till she found love anew
+The squire searches to this day
+Where to, Old Oak, where to?
 
 
 ### First Era of Supremacy,<br>Reign of Viktor I

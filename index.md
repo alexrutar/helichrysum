@@ -4,7 +4,12 @@ layout: default
 ---
 
 ### First Era of Protection,<br>Reign of Andreas I
-A new era begins...
+
+"These are the words of Dawn: A hidden keep, shown to those who Know, shall seat a new Empire", the four-armed orator proclaimed to the small council he had gathered, each representing an avenue of life in those lands.
+He lifted his staff as he continued, "Though hidden, the keep shall be known among high and low.
+They shall know where true power lies, that it lies here, with the ancient relics of the land.
+They shall know our leadership is True by knowing the power of those relics."
+The speaker donned the Chancellor's mask, turned abruptly and left for the inner sanctum of his keep. The council exchanged looks.
 
 ### First Era of The People,<br>Reign of Alex I
 As a new day dawned, the woman left her hovel to gather water at the River.
@@ -20,7 +25,7 @@ The woman hesitates, enjoying the warming rays of the sun, and starts on her pat
 A squire woke with rosy cheek <br>
 he donned his cap and shoe <br>
 He set out for the Oak to seek <br>
-Where to, Old Oak, where to? 
+Where to, Old Oak, where to?
 
 His heart did for a maiden burn,<br>
 the Oak a secret knew:<br>

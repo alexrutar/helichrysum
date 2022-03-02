@@ -4,7 +4,6 @@ layout: default
 ---
 
 ### First Era of Protection,<br>Reign of Andreas I
-
 "These are the words of Dawn: A hidden keep, shown to those who Know, shall seat a new Empire", the four-armed orator proclaimed to the small council he had gathered, each representing an avenue of life in those lands.
 He lifted his staff as he continued, "Though hidden, the keep shall be known among high and low.
 They shall know where true power lies, that it lies here, with the ancient relics of the land.
@@ -22,9 +21,9 @@ The woman hesitates, enjoying the warming rays of the sun, and starts on her pat
 
 ---
 
-A squire woke with rosy cheek <br>
-he donned his cap and shoe <br>
-He set out for the Oak to seek <br>
+A squire woke with rosy cheek<br>
+he donned his cap and shoe<br>
+He set out for the Oak to seek<br>
 Where to, Old Oak, where to?
 
 His heart did for a maiden burn,<br>
@@ -40,7 +39,7 @@ Where to, Old Oak, where to?
 The maid would wait and weep and pray<br>
 'till she found love anew<br>
 The squire searches to this day<br>
-Where to, Old Oak, where to?<br>
+Where to, Old Oak, where to?
 
 
 ### First Era of Supremacy,<br>Reign of Viktor I

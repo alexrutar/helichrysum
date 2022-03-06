@@ -3,6 +3,9 @@ title: Game State
 layout: default
 ---
 
+### First Era of Devotion,<br>Reign of Viktor II
+Sacred songs in temples, esoteric texts locked away. A new era begins...
+
 ### First Era of Protection,<br>Reign of Andreas I
 "These are the words of Dawn: A hidden keep, shown to those who Know, shall seat a new Empire", the four-armed orator proclaimed to the small council he had gathered, each representing an avenue of life in those lands.
 He lifted his staff as he continued, "Though hidden, the keep shall be known among high and low.
